@@ -1,2 +1,3 @@
-# family-cookbook
-My Family Cookbook
+# My Family Cookbook
+
+Personal cookbook used for my family.
