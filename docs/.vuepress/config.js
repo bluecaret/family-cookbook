@@ -9,6 +9,8 @@ export default defineUserConfig({
   title: 'Family Cookbook',
   description: 'My Family Cookbook',
 
+  base: '/family-cookbook/',
+
   theme: defaultTheme({
     logo: '/cookbook.png',
 
