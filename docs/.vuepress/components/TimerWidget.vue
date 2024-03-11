@@ -6,7 +6,7 @@ const remainingTime = ref('')
 const timerActive = ref(false)
 let intervalId
 let endTime
-const audio = new Audio('/timer.ogg')
+const audio = new Audio('./timer.ogg')
 
 const playSound = () => {
   audio.loop = true
