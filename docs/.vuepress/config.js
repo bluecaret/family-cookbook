@@ -11,8 +11,10 @@ export default defineUserConfig({
 
   base: '/family-cookbook/',
 
+  head: [['link', { rel: 'icon', href: './cookbook.png' }]],
+
   theme: defaultTheme({
-    logo: '/cookbook.png',
+    logo: './cookbook.png',
 
     themePlugins: {
       backToTop: false,
