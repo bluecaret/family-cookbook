@@ -9,4 +9,6 @@ excerpt: 'Soup with dashi and miso paste. Optionally add: green onion, tofu, wak
 quick: true
 ---
 
+## Quick Recipe
+
 Soup with dashi and miso paste. Optionally add: green onion, tofu, wakame, vegetables, meat, seafood.

@@ -1,0 +1,16 @@
+---
+title: 'Wakame and Cucumber Salad'
+category:
+  - Japanese
+tag:
+  - side
+  - salad
+  - wakame
+  - cucumber
+excerpt: 'A refreshing salad with rehydrated wakame and thinly sliced cucumbers, dressed in a light soy sauce and vinegar dressing. Optionally add Tofu.'
+quick: true
+---
+
+## Quick Recipe
+
+A refreshing salad with rehydrated wakame and thinly sliced cucumbers, dressed in a light soy sauce and vinegar dressing. Optionally add Tofu.
