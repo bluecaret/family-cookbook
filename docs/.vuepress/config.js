@@ -59,7 +59,6 @@ export default defineUserConfig({
         date: frontmatter.date || null,
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
-        image: frontmatter.image ? `recipe/${frontmatter.image}` : null,
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string' ? frontmatter.excerpt : data?.excerpt || '',

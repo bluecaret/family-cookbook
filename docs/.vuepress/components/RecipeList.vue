@@ -16,7 +16,6 @@ defineProps({
     <div v-if="!items.length">Nothing in here.</div>
 
     <article v-for="{ info, path } in items" :key="path" class="article" @click="$router.push(path)">
-      <img v-if="info.image" :src="withBase(info.image)" class="articleImage" />
       <header class="title">
         {{ (isTimeline ? `${new Date(info.date).toLocaleDateString()}: ` : '') + info.title }}
       </header>
