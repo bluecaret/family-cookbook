@@ -2,6 +2,7 @@
 title: Grilled Salted Mackerel (Saba Shioyaki)
 author: Just One Cookbook
 authorUrl: https://www.justonecookbook.com/grilled-mackerel-saba-shioyaki/
+image: 'grilled-salted-mackerel.jpg'
 category:
   - Japanese
 tag:
@@ -39,7 +40,7 @@ ingredients:
         label: soy sauce
 ---
 
-![](./grilled-salted-mackerel.jpg)
+![](grilled-salted-mackerel.jpg)
 
 ## Steps
 

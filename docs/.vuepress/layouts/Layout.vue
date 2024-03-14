@@ -19,7 +19,7 @@ console.log(page)
       <h1>
         {{ page.title }}
       </h1>
-      <div v-if="page.frontmatter.author" class="author">
+      <div v-if="page.frontmatter.author" class="authorLine">
         <a v-if="page.frontmatter.authorUrl" :href="page.frontmatter.authorUrl" target="_blank">{{
           page.frontmatter.author
         }}</a>
@@ -78,19 +78,6 @@ console.log(page)
         </div>
       </div>
     </template>
-    <!-- <template #page-bottom>
-      <div class="page-bottom">
-        <hr />
-        <ul class="categoriesAndTags">
-          <li class="category" v-for="(cat, index) in page.frontmatter.category" :key="cat">
-            <RouteLink :to="categoryMap[cat].path">{{ cat }}</RouteLink>
-          </li>
-          <li class="tag" v-for="(tag, index) in page.frontmatter.tag" :key="tag">
-            <RouteLink :to="tagMap[tag].path">{{ tag }}</RouteLink>
-          </li>
-        </ul>
-      </div>
-    </template> -->
   </ParentLayout>
 </template>
 
@@ -110,7 +97,7 @@ console.log(page)
   flex-direction: column;
   gap: 1rem;
 }
-.author {
+.authorLine {
   margin-top: -1.3rem;
 }
 .page-meta {
@@ -122,8 +109,19 @@ console.log(page)
   gap: 1rem 2rem;
   padding: 0;
   max-width: min(1000px, 100%);
-  @media (max-width: 800px) {
+  &:not(:has(.ingredientLists)) {
     grid-template-columns: 1fr;
+    .meta {
+      hr {
+        display: none;
+      }
+      .categoriesAndTags {
+        margin-top: 0;
+      }
+    }
+  }
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr !important;
   }
   h2,
   h3,

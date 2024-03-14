@@ -34,6 +34,10 @@ export default defineUserConfig({
         text: 'Tag',
         link: '/tag/',
       },
+      {
+        text: 'Fiber',
+        link: '/fiber.html',
+      },
       // {
       //   text: 'Timeline',
       //   link: '/timeline/',
@@ -55,6 +59,7 @@ export default defineUserConfig({
         date: frontmatter.date || null,
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
+        image: frontmatter.image ? `recipe/${frontmatter.image}` : null,
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string' ? frontmatter.excerpt : data?.excerpt || '',

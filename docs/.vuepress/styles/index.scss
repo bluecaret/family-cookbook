@@ -4,8 +4,16 @@
   scroll-behavior: smooth;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html.dark {
   // --c-bg: #152b49;
+}
+
+h1 {
+  color: var(--c-brand);
 }
 
 .article-wrapper.quickList {
@@ -16,9 +24,7 @@ html.dark {
   padding: 0;
   margin: 0 0 1.25rem;
 }
-.quickList .article {
-  position: relative;
-  box-sizing: border-box;
+.article {
   width: 100%;
   margin: 0;
   padding: 1rem 1.25rem;
@@ -33,6 +39,11 @@ html.dark {
     background-color: var(--c-bg-dark);
     cursor: pointer;
   }
+  .articleImage {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-size: cover;
+  }
   .title {
     position: relative;
     display: inline-block;
@@ -40,11 +51,24 @@ html.dark {
     font-size: 1.28rem;
     line-height: 1.3rem;
     margin-bottom: 0.5rem;
+    color: var(--c-brand);
     &::after {
       display: none;
     }
     a {
       color: inherit;
+    }
+  }
+
+  .article-info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    gap: 0.3rem;
+    > span {
+      margin-inline-end: 0.5em;
+      line-height: 1.8;
     }
   }
 

@@ -10,6 +10,7 @@ const recipes = useBlogType('recipes')
   <ParentLayout>
     <template #page>
       <main class="page">
+        <h1>Recipes</h1>
         <RecipeList :items="recipes.items" />
       </main>
     </template>

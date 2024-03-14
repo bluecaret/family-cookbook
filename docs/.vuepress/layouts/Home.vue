@@ -10,7 +10,7 @@ const quickIdeas = useBlogType('quick')
   <ParentLayout>
     <template #page>
       <main class="page">
-        <h2>Quick Ideas</h2>
+        <h1>Quick Ideas</h1>
         <QuickList :items="quickIdeas.items" />
       </main>
     </template>
