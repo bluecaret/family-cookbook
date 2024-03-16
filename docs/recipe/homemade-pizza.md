@@ -7,6 +7,11 @@ tag:
   - pizza
 excerpt: 'Whole wheat pizza crust with seeds, ready in an hour.'
 quick: false
+time:
+  prep: 15 mins
+  cook: 15 mins
+  resting: 1 hour
+  total: 1 1/2 hours
 ingredients:
   - quantity: 1
     unit: cup
