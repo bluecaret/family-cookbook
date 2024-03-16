@@ -8,25 +8,25 @@ tag:
 excerpt: 'Whole wheat pizza crust with seeds, ready in an hour.'
 quick: false
 ingredients:
-  - amount: 1
+  - quantity: 1
     unit: cup
     label: warm water (110°F)
-  - amount: 2
+  - quantity: 2
     unit: tsp
     label: instant yeast
-  - amount: 1
+  - quantity: 1
     unit: tbsp
     label: honey or sugar
-  - amount: 2
+  - quantity: 2
     unit: tbsp
     label: olive oil
-  - amount: 2 1/2
+  - quantity: 2 1/2
     unit: cups
     label: whole wheat flour
- - amount: 1/4
+ - quantity: 1/4
     unit: cup
     label: mixed seeds (such as flaxseeds, chia seeds, and sesame seeds)
-  - amount: 1
+  - quantity: 1
     unit: tsp
     label: salt
 ---
