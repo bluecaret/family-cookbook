@@ -28,7 +28,7 @@ ingredients:
   - quantity: 2 1/2
     unit: cups
     label: whole wheat flour
- - quantity: 1/4
+  - quantity: 1/4
     unit: cup
     label: mixed seeds (such as flaxseeds, chia seeds, and sesame seeds)
   - quantity: 1
