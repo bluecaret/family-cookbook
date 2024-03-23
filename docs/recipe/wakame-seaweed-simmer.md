@@ -8,9 +8,6 @@ tag:
   - carrot
   - tofu
 excerpt: 'A dish of wakame seaweed (can substitute with hijiki), carrots, and tofu simmered in a soy sauce-based broth.'
-quick: true
+noRecipe: 'A dish of wakame seaweed (can substitute with hijiki), carrots, and tofu simmered in a soy sauce-based broth.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A dish of wakame seaweed (can substitute with hijiki), carrots, and tofu simmered in a soy sauce-based broth.

@@ -6,9 +6,6 @@ tag:
   - main
   - side
 excerpt: 'A type of tempura using a mix of vegetables like onions, carrots, and snap peas, all chopped and fried in a light batter.'
-quick: true
+noRecipe: 'A type of tempura using a mix of vegetables like onions, carrots, and snap peas, all chopped and fried in a light batter.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A type of tempura using a mix of vegetables like onions, carrots, and snap peas, all chopped and fried in a light batter.

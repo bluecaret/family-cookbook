@@ -6,9 +6,6 @@ tag:
   - side
   - egg
 excerpt: 'Rolled omelet seasoned with any combination of: soy sauce, sugar, mirin, dashi, green onions, other finely chopped vegetables.'
-quick: true
+noRecipe: 'Rolled omelet seasoned with any combination of: soy sauce, sugar, mirin, dashi, green onions, other finely chopped vegetables.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Rolled omelet seasoned with any combination of: soy sauce, sugar, mirin, dashi, green onions, other finely chopped vegetables.

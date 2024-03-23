@@ -34,11 +34,11 @@ const searchResults = computed(() => {
   <div v-if="items.length && !searchResults.length" class="noResults">No recipes found. Try another search.</div>
   <div v-if="items.length && searchResults.length" class="articleWrapper quickList">
     <article v-for="{ info, path } in items" :key="path" class="article" @click="$router.push(path)">
-      <div
+      <!-- <div
         v-if="info.image"
         class="articleImage"
         :style="`background-image: url(${$withBase('/recipe/' + info.image)});`"
-      ></div>
+      ></div> -->
       <header class="title">
         {{ info.title }}
       </header>

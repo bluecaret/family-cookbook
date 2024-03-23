@@ -7,9 +7,6 @@ tag:
   - carrot
   - stir-fry
 excerpt: 'Julienned carrots stir-fried quickly with sesame oil, garnished with sesame seeds and a dash of soy sauce.'
-quick: true
+noRecipe: 'Julienned carrots stir-fried quickly with sesame oil, garnished with sesame seeds and a dash of soy sauce.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Julienned carrots stir-fried quickly with sesame oil, garnished with sesame seeds and a dash of soy sauce.

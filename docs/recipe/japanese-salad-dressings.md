@@ -6,10 +6,10 @@ tag:
   - side
   - salad
 excerpt: 'Italian Dressing, French Dressing, Shoyu Dressing, Chuka Dressing'
-quick: true
+noRecipe: 'Italian Dressing, French Dressing, Shoyu Dressing, Chuka Dressing'
 ---
 
-## Quick Recipe
+## Steps
 
 1 part vinegar to 2 parts oil. Keep in a jar. Store in fridge 7-10 days
 

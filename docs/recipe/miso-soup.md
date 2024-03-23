@@ -6,9 +6,6 @@ tag:
   - side
   - soup
 excerpt: 'Soup with dashi and miso paste. Optionally add: green onion, tofu, wakame, vegetables, meat, seafood.'
-quick: true
+noRecipe: 'Soup with dashi and miso paste. Optionally add: green onion, tofu, wakame, vegetables, meat, seafood.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Soup with dashi and miso paste. Optionally add: green onion, tofu, wakame, vegetables, meat, seafood.

@@ -10,7 +10,7 @@ tag:
   - soup
   - tofu
 excerpt: 'Crispy tofu cubes served over a flavorful umami-rich broth.'
-noRecipe: '½” cubes of firm tofu. Roll in cornstarch. Fry in ¼” oil 1-2 min per side. Serve over broth made with dashi, mirin, soy sauce, cornstarch slurry. Pour broth over tofu in bowl. Garnish w/ ginger, green onion, nori.'
+noRecipe: 'Cubes of tofu rolled in cornstarch fried in oil. Served over broth made with dashi, mirin, soy sauce, cornstarch slurry. Pour broth over tofu in bowl. Garnish w/ ginger, green onion, nori.'
 servings: 2
 time:
   prep: 15 mins

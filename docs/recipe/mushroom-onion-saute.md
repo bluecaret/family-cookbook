@@ -7,9 +7,6 @@ tag:
   - mushroom
   - onion
 excerpt: 'Baby bell mushrooms and onions sautéed in sesame oil with a splash of soy sauce.'
-quick: true
+noRecipe: 'Baby bell mushrooms and onions sautéed in sesame oil with a splash of soy sauce.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Baby bell mushrooms and onions sautéed in sesame oil with a splash of soy sauce.

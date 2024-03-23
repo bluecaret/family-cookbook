@@ -7,10 +7,7 @@ tag:
   - salad
   - avocado
   - tomato
-excerpt: 'Mix together avocado, tomatoes, mayo, soy sauce. Top with dried seaweed.'
-quick: true
+excerpt: 'Simple salad with avocado, tomatoes, and a soy sauce and mayo sauce.'
+noRecipe: 'Mix together avocado, tomatoes, mayo, soy sauce. Top with dried seaweed.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Mix together avocado, tomatoes, mayo, soy sauce. Top with dried seaweed.

@@ -7,9 +7,6 @@ tag:
   - egg
   - natto
 excerpt: 'Scramble eggs. Add natto on top.'
-quick: true
+noRecipe: 'Scramble eggs. Add natto on top.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Scramble eggs. Add natto on top.

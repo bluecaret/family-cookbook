@@ -37,6 +37,7 @@ console.log(page)
             !page.frontmatter.time &&
             !page.frontmatter.servings &&
             !page.frontmatter.ingredients,
+          noRecipeOnly: page.frontmatter.noRecipeOnly === true,
         }"
       >
         <aside class="pageAside">
@@ -46,11 +47,14 @@ console.log(page)
             :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
           ></div>
           <div v-if="page.frontmatter.noRecipe" class="noRecipe">
-            <h2>No-recipe instructions</h2>
+            <h2 v-if="page.frontmatter.noRecipeOnly !== true">No-recipe instructions</h2>
             <p>{{ page.frontmatter.noRecipe }}</p>
-            <hr />
+            <hr v-if="page.frontmatter.noRecipeOnly !== true" />
           </div>
-          <ul class="times" v-if="page.frontmatter.time || page.frontmatter.servings">
+          <ul
+            class="times"
+            v-if="(page.frontmatter.time || page.frontmatter.servings) && page.frontmatter.noRecipeOnly !== true"
+          >
             <li class="time"><strong>Servings:</strong> {{ page.frontmatter.servings }}</li>
             <li class="time" v-if="page.frontmatter.time['prep']">
               <strong>Prep:</strong> {{ page.frontmatter.time['prep'] }}
@@ -65,7 +69,10 @@ console.log(page)
               <strong>Total:</strong> {{ page.frontmatter.time['total'] }}
             </li>
           </ul>
-          <div v-if="page.frontmatter.ingredients" class="asideContent ingredientLists">
+          <div
+            v-if="page.frontmatter.ingredients && page.frontmatter.noRecipeOnly !== true"
+            class="asideContent ingredientLists"
+          >
             <h2>Ingredients</h2>
             <ul class="ingredients">
               <li v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
@@ -88,7 +95,7 @@ console.log(page)
             </template>
           </div>
         </aside>
-        <div class="pageContent">
+        <div v-if="page.frontmatter.noRecipeOnly !== true" class="pageContent">
           <div
             v-if="page.frontmatter.image"
             class="pageImage"

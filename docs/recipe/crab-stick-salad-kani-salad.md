@@ -7,9 +7,6 @@ tag:
   - salad
   - crab
 excerpt: 'A quick mix of shredded imitation crab, cucumber, and a creamy dressing.'
-quick: true
+noRecipe: 'A quick mix of shredded imitation crab, cucumber, and a creamy dressing.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A quick mix of shredded imitation crab, cucumber, and a creamy dressing.

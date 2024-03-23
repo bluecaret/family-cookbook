@@ -8,9 +8,6 @@ tag:
   - snack
   - somen
 excerpt: 'Cold or hot somen noodles in a dashi-based broth, garnished with green onions and a side of soy sauce for dipping.'
-quick: true
+noRecipe: 'Cold or hot somen noodles in a dashi-based broth, garnished with green onions and a side of soy sauce for dipping.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Cold or hot somen noodles in a dashi-based broth, garnished with green onions and a side of soy sauce for dipping.

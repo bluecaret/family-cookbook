@@ -9,9 +9,6 @@ tag:
   - tofu
   - spinach
 excerpt: 'Mashed tofu mixed with spinach, carrots, and a hint of miso, creating a creamy salad.'
-quick: true
+noRecipe: 'Mashed tofu mixed with spinach, carrots, and a hint of miso, creating a creamy salad.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Mashed tofu mixed with spinach, carrots, and a hint of miso, creating a creamy salad.

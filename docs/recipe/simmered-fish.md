@@ -6,9 +6,6 @@ tag:
   - main
   - fish
 excerpt: 'Fish filets (any fish) with soy sauce, mirin, sake, water. Cook for 10 minutes per inch of thickness.'
-quick: true
+noRecipe: 'Fish filets (any fish) with soy sauce, mirin, sake, water. Cook for 10 minutes per inch of thickness.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Fish filets (any fish) with soy sauce, mirin, sake, water. Cook for 10 minutes per inch of thickness.

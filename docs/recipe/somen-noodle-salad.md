@@ -7,9 +7,6 @@ tag:
   - salad
   - somen
 excerpt: 'Chilled somen noodles served with a variety of toppings like snap peas, carrots, and a light soy sauce-based dressing.'
-quick: true
+noRecipe: 'Chilled somen noodles served with a variety of toppings like snap peas, carrots, and a light soy sauce-based dressing.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Chilled somen noodles served with a variety of toppings like snap peas, carrots, and a light soy sauce-based dressing.

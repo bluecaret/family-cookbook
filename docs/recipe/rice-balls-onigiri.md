@@ -8,9 +8,6 @@ tag:
   - snack
   - rice
 excerpt: 'Rice shaped into triangles or balls, often wrapped in seaweed and filled with ingredients like salted salmon or pickled plum.'
-quick: true
+noRecipe: 'Rice shaped into triangles or balls, often wrapped in seaweed and filled with ingredients like salted salmon or pickled plum.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Rice shaped into triangles or balls, often wrapped in seaweed and filled with ingredients like salted salmon or pickled plum.

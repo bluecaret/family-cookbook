@@ -14,40 +14,6 @@ export default defineUserConfig({
 
   theme: false,
 
-  // theme: defaultTheme({
-  //   logo: './cookbook.png',
-
-  //   themePlugins: {
-  //     backToTop: false,
-  //   },
-
-  //   navbar: [
-  //     '/',
-  //     {
-  //       text: 'Recipes',
-  //       link: '/recipes/',
-  //     },
-  //     {
-  //       text: 'Category',
-  //       link: '/category/',
-  //     },
-  //     {
-  //       text: 'Tag',
-  //       link: '/tag/',
-  //     },
-  //     {
-  //       text: 'Fiber',
-  //       link: '/fiber.html',
-  //     },
-  //     // {
-  //     //   text: 'Timeline',
-  //     //   link: '/timeline/',
-  //     // },
-  //   ],
-
-  //   sidebar: false,
-  // }),
-
   plugins: [
     blogPlugin({
       // Only files under posts are articles
@@ -65,6 +31,7 @@ export default defineUserConfig({
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string' ? frontmatter.excerpt : data?.excerpt || '',
         noRecipe: frontmatter.noRecipe ? frontmatter.noRecipe : '',
+        noRecipeOnly: frontmatter.noRecipeOnly ? frontmatter.noRecipeOnly : false,
       }),
 
       // Generate excerpt for all pages excerpt those users choose to disable
@@ -106,7 +73,7 @@ export default defineUserConfig({
         {
           key: 'recipes',
           // Remove archive articles
-          filter: (page) => !page.frontmatter.archive,
+          filter: (page) => !page.frontmatter.archive && page.frontmatter.noRecipeOnly !== true,
           layout: 'Recipe',
           frontmatter: () => ({
             title: 'Recipes',
@@ -151,19 +118,6 @@ export default defineUserConfig({
             return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime()
           },
         },
-        // {
-        //   key: 'timeline',
-        //   // Only article with date should be added to timeline
-        //   filter: (page) => page.frontmatter.date instanceof Date,
-        //   // Sort pages with time
-        //   sorter: (pageA, pageB) =>
-        //     new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime(),
-        //   layout: 'Timeline',
-        //   frontmatter: () => ({
-        //     title: 'Timeline',
-        //     sidebar: false,
-        //   }),
-        // },
       ],
       hotReload: true,
     }),

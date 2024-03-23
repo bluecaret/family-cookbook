@@ -7,9 +7,6 @@ tag:
   - bowl
   - salad
 excerpt: 'Tuna fish with mayo, add chopped vegetables (carrots, snap peas, celery, etc.), small cubes of cheese. Optional base of pasta, barely, lettuce, or spinach.'
-quick: true
+noRecipe: 'Tuna fish with mayo, add chopped vegetables (carrots, snap peas, celery, etc.), small cubes of cheese. Optional base of pasta, barely, lettuce, or spinach.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Tuna fish with mayo, add chopped vegetables (carrots, snap peas, celery, etc.), small cubes of cheese. Optional base of pasta, barely, lettuce, or spinach.

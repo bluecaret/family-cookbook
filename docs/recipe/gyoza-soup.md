@@ -6,9 +6,6 @@ tag:
   - main
   - soup
 excerpt: 'A comforting soup with frozen gyoza, cabbage, and green onions in a savory broth.'
-quick: true
+noRecipe: 'A comforting soup with frozen gyoza, cabbage, and green onions in a savory broth.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A comforting soup with frozen gyoza, cabbage, and green onions in a savory broth.

@@ -8,9 +8,6 @@ tag:
   - spinach
   - stir-fry
 excerpt: 'Fry mushrooms, then add spinach till reduced. Add sauce made of sugar, soy sauce, sesame oil. Cook till moisture is gone.'
-quick: true
+noRecipe: 'Fry mushrooms, then add spinach till reduced. Add sauce made of sugar, soy sauce, sesame oil. Cook till moisture is gone.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Fry mushrooms, then add spinach till reduced. Add sauce made of sugar, soy sauce, sesame oil. Cook till moisture is gone.

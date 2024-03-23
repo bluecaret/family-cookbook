@@ -6,9 +6,6 @@ tag:
   - main
   - tofu
 excerpt: 'Cut tofu into thin rectangles. Fry in oil. Add any sauce. Ex: soy sauce and sugar.'
-quick: true
+noRecipe: 'Cut tofu into thin rectangles. Fry in oil. Add any sauce. Ex: soy sauce and sugar.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Cut tofu into thin rectangles. Fry in oil. Add any sauce. Ex: soy sauce and sugar.

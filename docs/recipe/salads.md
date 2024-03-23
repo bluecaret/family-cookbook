@@ -7,9 +7,6 @@ tag:
   - main
   - salad
 excerpt: 'Caesar, chop-chop, taco, asian, etc.'
-quick: true
+noRecipe: 'Caesar, chop-chop, taco, asian, etc.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Caesar, chop-chop, taco, asian, etc.

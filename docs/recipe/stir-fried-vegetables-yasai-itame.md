@@ -9,9 +9,6 @@ tag:
   - cabbage
   - mushroom
 excerpt: 'A quick stir-fry using any combination of vegetables like cabbage, carrots, and bell mushrooms, seasoned with soy sauce and garlic.'
-quick: true
+noRecipe: 'A quick stir-fry using any combination of vegetables like cabbage, carrots, and bell mushrooms, seasoned with soy sauce and garlic.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A quick stir-fry using any combination of vegetables like cabbage, carrots, and bell mushrooms, seasoned with soy sauce and garlic.

@@ -6,9 +6,6 @@ tag:
   - main
   - chicken
 excerpt: 'Ground chicken meatballs, often mixed with finely chopped vegetables, grilled on skewers and glazed with teriyaki sauce.'
-quick: true
+noRecipe: 'Ground chicken meatballs, often mixed with finely chopped vegetables, grilled on skewers and glazed with teriyaki sauce.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Ground chicken meatballs, often mixed with finely chopped vegetables, grilled on skewers and glazed with teriyaki sauce.

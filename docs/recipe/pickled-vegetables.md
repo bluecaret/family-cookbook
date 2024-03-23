@@ -6,9 +6,6 @@ tag:
   - side
   - pickle
 excerpt: 'Such as ginger, daikon, cucumber, cabbage, etc.'
-quick: true
+noRecipe: 'Such as ginger, daikon, cucumber, cabbage, etc.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Such as ginger, daikon, cucumber, cabbage, etc.

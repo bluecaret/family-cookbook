@@ -6,10 +6,7 @@ tag:
   - side
   - salad
   - bean sprouts
-excerpt: 'Blanched bean sprouts seasoned with sesame oil, soy sauce, and sometimes a hint of chili.'
-quick: true
+excerpt: 'Bean sprouts seasoned with a Japanese-style sauce.'
+noRecipe: 'Blanched bean sprouts seasoned with sesame oil, soy sauce, and sometimes a hint of chili.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Blanched bean sprouts seasoned with sesame oil, soy sauce, and sometimes a hint of chili.

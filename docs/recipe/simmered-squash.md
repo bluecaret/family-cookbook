@@ -7,9 +7,6 @@ tag:
   - squash
   - sweet potato
 excerpt: 'Chunks of kabocha squash (can substitute with sweet potatoes) simmered in a soy sauce-based broth.'
-quick: true
+noRecipe: 'Chunks of kabocha squash (can substitute with sweet potatoes) simmered in a soy sauce-based broth.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Chunks of kabocha squash (can substitute with sweet potatoes) simmered in a soy sauce-based broth.

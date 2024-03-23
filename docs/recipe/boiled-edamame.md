@@ -6,9 +6,6 @@ tag:
   - side
   - edamame
 excerpt: 'Young soybeans often boiled and salted, served in their pods.'
-quick: true
+noRecipe: 'Young soybeans often boiled and salted, served in their pods.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Young soybeans often boiled and salted, served in their pods.

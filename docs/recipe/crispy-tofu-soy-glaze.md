@@ -7,9 +7,6 @@ tag:
   - main
   - tofu
 excerpt: 'Firm tofu coated in cornstarch and fried until crispy, served with a soy sauce, sugar, and mirin glaze.'
-quick: true
+noRecipe: 'Firm tofu coated in cornstarch and fried until crispy, served with a soy sauce, sugar, and mirin glaze.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-Firm tofu coated in cornstarch and fried until crispy, served with a soy sauce, sugar, and mirin glaze.

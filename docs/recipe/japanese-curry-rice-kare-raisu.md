@@ -8,9 +8,6 @@ tag:
   - curry
   - chicken
 excerpt: 'A hearty curry stew with meat and vegetables, served over rice. Ingredients are cooked with curry seasoning and served over steamed rice.'
-quick: true
+noRecipe: 'A hearty curry stew with meat and vegetables, served over rice. Ingredients are cooked with curry seasoning and served over steamed rice.'
+noRecipeOnly: true
 ---
-
-## Quick Recipe
-
-A hearty curry stew with meat and vegetables, served over rice. Ingredients are cooked with curry seasoning and served over steamed rice.
