@@ -7,7 +7,7 @@ import '../styles/index.scss'
   <!-- Icons by: Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
   <header class="header">
     <div class="headerInner container">
-      <a href="/" title="Family Cookbook" class="home">
+      <a :href="$withBase('/')" title="Family Cookbook" class="home">
         <img src="/cookbook.png" alt="Family Cookbook logo" />
       </a>
       <nav class="nav">
