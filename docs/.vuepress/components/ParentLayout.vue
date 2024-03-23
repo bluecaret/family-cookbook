@@ -52,7 +52,7 @@ import '../styles/index.scss'
   <footer class="footer">
     <div class="footerInner container">
       <TimerWidget class="timer" />
-      <div class="createdBy">Created by <a href="https://www.bluecaret.com">BlueCaret</a> for his family.</div>
+      <div class="createdBy">Family Cookbook created by <a href="https://www.bluecaret.com">BlueCaret</a>.</div>
       <a href="#" class="top">▲</a>
     </div>
   </footer>
