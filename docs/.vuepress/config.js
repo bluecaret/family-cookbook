@@ -1,5 +1,4 @@
 import { blogPlugin } from '@vuepress/plugin-blog'
-import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 
@@ -13,39 +12,41 @@ export default defineUserConfig({
 
   head: [['link', { rel: 'icon', href: './cookbook.png' }]],
 
-  theme: defaultTheme({
-    logo: './cookbook.png',
+  theme: false,
 
-    themePlugins: {
-      backToTop: false,
-    },
+  // theme: defaultTheme({
+  //   logo: './cookbook.png',
 
-    navbar: [
-      '/',
-      {
-        text: 'Recipes',
-        link: '/recipes/',
-      },
-      {
-        text: 'Category',
-        link: '/category/',
-      },
-      {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Fiber',
-        link: '/fiber.html',
-      },
-      // {
-      //   text: 'Timeline',
-      //   link: '/timeline/',
-      // },
-    ],
+  //   themePlugins: {
+  //     backToTop: false,
+  //   },
 
-    sidebar: false,
-  }),
+  //   navbar: [
+  //     '/',
+  //     {
+  //       text: 'Recipes',
+  //       link: '/recipes/',
+  //     },
+  //     {
+  //       text: 'Category',
+  //       link: '/category/',
+  //     },
+  //     {
+  //       text: 'Tag',
+  //       link: '/tag/',
+  //     },
+  //     {
+  //       text: 'Fiber',
+  //       link: '/fiber.html',
+  //     },
+  //     // {
+  //     //   text: 'Timeline',
+  //     //   link: '/timeline/',
+  //     // },
+  //   ],
+
+  //   sidebar: false,
+  // }),
 
   plugins: [
     blogPlugin({
@@ -56,12 +57,14 @@ export default defineUserConfig({
       getInfo: ({ frontmatter, title, data }) => ({
         title,
         author: frontmatter.author || '',
+        image: frontmatter.image || '',
         date: frontmatter.date || null,
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string' ? frontmatter.excerpt : data?.excerpt || '',
+        noRecipe: frontmatter.noRecipe ? frontmatter.noRecipe : '',
       }),
 
       // Generate excerpt for all pages excerpt those users choose to disable
@@ -125,9 +128,9 @@ export default defineUserConfig({
           },
         },
         {
-          key: 'quick',
+          key: 'noRecipe',
           // Remove archive articles
-          filter: (page) => !page.frontmatter.archive && page.frontmatter.quick,
+          filter: (page) => !page.frontmatter.archive && page.frontmatter.noRecipe,
           layout: 'Recipe',
           frontmatter: () => ({
             title: 'Quick Ideas',
@@ -148,19 +151,19 @@ export default defineUserConfig({
             return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime()
           },
         },
-        {
-          key: 'timeline',
-          // Only article with date should be added to timeline
-          filter: (page) => page.frontmatter.date instanceof Date,
-          // Sort pages with time
-          sorter: (pageA, pageB) =>
-            new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime(),
-          layout: 'Timeline',
-          frontmatter: () => ({
-            title: 'Timeline',
-            sidebar: false,
-          }),
-        },
+        // {
+        //   key: 'timeline',
+        //   // Only article with date should be added to timeline
+        //   filter: (page) => page.frontmatter.date instanceof Date,
+        //   // Sort pages with time
+        //   sorter: (pageA, pageB) =>
+        //     new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime(),
+        //   layout: 'Timeline',
+        //   frontmatter: () => ({
+        //     title: 'Timeline',
+        //     sidebar: false,
+        //   }),
+        // },
       ],
       hotReload: true,
     }),

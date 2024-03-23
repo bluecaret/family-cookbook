@@ -1,5 +1,5 @@
 <script setup>
-import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
+import ParentLayout from '../components/ParentLayout.vue'
 import { usePageData, useClientData } from 'vuepress/client'
 import { useBlogCategory } from '@vuepress/plugin-blog/client'
 import TimerWidget from '../components/TimerWidget.vue'
@@ -14,57 +14,90 @@ console.log(page)
 
 <template>
   <ParentLayout>
-    <template #navbar-before><TimerWidget /></template>
-    <template #page-top>
-      <h1>
-        {{ page.title }}
-      </h1>
-      <div v-if="page.frontmatter.author" class="authorLine">
-        <a v-if="page.frontmatter.authorUrl" :href="page.frontmatter.authorUrl" target="_blank">{{
-          page.frontmatter.author
-        }}</a>
-        <span v-else>{{ page.frontmatter.author }}</span>
-      </div>
-      <ul class="times" v-if="page.frontmatter.time || page.frontmatter.servings">
-        <li class="time"><strong>Servings:</strong> {{ page.frontmatter.servings }}</li>
-        <li class="time" v-if="page.frontmatter.time['prep']">
-          <strong>Prep:</strong> {{ page.frontmatter.time['prep'] }}
-        </li>
-        <li class="time" v-if="page.frontmatter.time['cook']">
-          <strong>Cook:</strong> {{ page.frontmatter.time['cook'] }}
-        </li>
-        <li class="time" v-if="page.frontmatter.time['resting']">
-          <strong>Resting:</strong> {{ page.frontmatter.time['resting'] }}
-        </li>
-        <li class="time" v-if="page.frontmatter.time['total']">
-          <strong>Total:</strong> {{ page.frontmatter.time['total'] }}
-        </li>
-      </ul>
-    </template>
-    <template #page-content-top>
-      <div class="page-top">
-        <div v-if="page.frontmatter.ingredients" class="ingredientLists">
-          <h2>Ingredients</h2>
-          <ul class="ingredients">
-            <li v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
-              <label v-if="!ingredient.heading">
-                <input type="checkbox" />
-                <span>{{ ingredient.quantity }} {{ ingredient.unit }}</span> <strong>{{ ingredient.label }}</strong>
-              </label>
+    <div class="page">
+      <header class="pageHeader">
+        <h1>
+          {{ page.title }}
+        </h1>
+        <div v-if="page.frontmatter.author" class="authorLine">
+          <a v-if="page.frontmatter.authorUrl" :href="page.frontmatter.authorUrl" target="_blank">{{
+            page.frontmatter.author
+          }}</a>
+          <span v-else>{{ page.frontmatter.author }}</span>
+        </div>
+        <div v-if="page.frontmatter.excerpt" class="excerptLine">
+          {{ page.frontmatter.excerpt }}
+        </div>
+      </header>
+      <section
+        class="pageBody"
+        :class="{
+          noAside:
+            !page.frontmatter.noRecipe &&
+            !page.frontmatter.time &&
+            !page.frontmatter.servings &&
+            !page.frontmatter.ingredients,
+        }"
+      >
+        <aside class="pageAside">
+          <div
+            v-if="page.frontmatter.image"
+            class="pageImage"
+            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
+          ></div>
+          <div v-if="page.frontmatter.noRecipe" class="noRecipe">
+            <h2>No-recipe instructions</h2>
+            <p>{{ page.frontmatter.noRecipe }}</p>
+            <hr />
+          </div>
+          <ul class="times" v-if="page.frontmatter.time || page.frontmatter.servings">
+            <li class="time"><strong>Servings:</strong> {{ page.frontmatter.servings }}</li>
+            <li class="time" v-if="page.frontmatter.time['prep']">
+              <strong>Prep:</strong> {{ page.frontmatter.time['prep'] }}
+            </li>
+            <li class="time" v-if="page.frontmatter.time['cook']">
+              <strong>Cook:</strong> {{ page.frontmatter.time['cook'] }}
+            </li>
+            <li class="time" v-if="page.frontmatter.time['resting']">
+              <strong>Resting:</strong> {{ page.frontmatter.time['resting'] }}
+            </li>
+            <li class="time" v-if="page.frontmatter.time['total']">
+              <strong>Total:</strong> {{ page.frontmatter.time['total'] }}
             </li>
           </ul>
-          <template v-for="(section, index) in page.frontmatter.ingredients" :key="index">
-            <h3 v-if="section.heading">{{ section.heading }}</h3>
-            <ul v-if="section.heading" class="ingredients">
-              <li v-for="(ingredient, index) in section.ingredients" :key="index">
-                <label>
+          <div v-if="page.frontmatter.ingredients" class="asideContent ingredientLists">
+            <h2>Ingredients</h2>
+            <ul class="ingredients">
+              <li v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
+                <label v-if="!ingredient.heading">
                   <input type="checkbox" />
                   <span>{{ ingredient.quantity }} {{ ingredient.unit }}</span> <strong>{{ ingredient.label }}</strong>
                 </label>
               </li>
             </ul>
-          </template>
+            <template v-for="(section, index) in page.frontmatter.ingredients" :key="index">
+              <h3 v-if="section.heading">{{ section.heading }}</h3>
+              <ul v-if="section.heading" class="ingredients">
+                <li v-for="(ingredient, index) in section.ingredients" :key="index">
+                  <label>
+                    <input type="checkbox" />
+                    <span>{{ ingredient.quantity }} {{ ingredient.unit }}</span> <strong>{{ ingredient.label }}</strong>
+                  </label>
+                </li>
+              </ul>
+            </template>
+          </div>
+        </aside>
+        <div class="pageContent">
+          <div
+            v-if="page.frontmatter.image"
+            class="pageImage"
+            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
+          ></div>
+          <Content />
         </div>
+      </section>
+      <footer class="pageFooter">
         <div class="meta">
           <hr />
           <ul class="categoriesAndTags">
@@ -76,12 +109,13 @@ console.log(page)
             </li>
           </ul>
         </div>
-      </div>
-    </template>
+      </footer>
+    </div>
   </ParentLayout>
 </template>
 
 <style lang="scss">
+/*
 .navbar .site-name {
   @media screen and (max-width: 800px) {
     display: none;
@@ -91,6 +125,13 @@ console.log(page)
   display: block;
   padding: 2rem 0 3rem;
   max-width: min(1000px, 90%);
+}
+.pageImage {
+  width: 100%;
+  aspect-ratio: 10/5;
+  background-size: cover;
+  background-position: center;
+  margin-block: 1rem;
 }
 .page-top {
   display: flex;
@@ -109,7 +150,7 @@ console.log(page)
   gap: 1rem 2rem;
   padding: 0;
   max-width: min(1000px, 100%);
-  &:not(:has(.ingredientLists)) {
+  &:not(:has(.asideContent)) {
     grid-template-columns: 1fr;
     .meta {
       hr {
@@ -253,4 +294,5 @@ console.log(page)
     }
   }
 }
+*/
 </style>

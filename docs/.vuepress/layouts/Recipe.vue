@@ -1,6 +1,6 @@
 <script setup>
 import { useBlogType } from '@vuepress/plugin-blog/client'
-import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
+import ParentLayout from '../components/ParentLayout.vue'
 import RecipeList from '../components/RecipeList.vue'
 
 const recipes = useBlogType('recipes')
@@ -8,11 +8,7 @@ const recipes = useBlogType('recipes')
 
 <template>
   <ParentLayout>
-    <template #page>
-      <main class="page">
-        <h1>Recipes</h1>
-        <RecipeList :items="recipes.items" />
-      </main>
-    </template>
+    <h1>Recipes</h1>
+    <RecipeList :items="recipes.items" />
   </ParentLayout>
 </template>

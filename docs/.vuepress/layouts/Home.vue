@@ -1,26 +1,14 @@
 <script setup>
 import { useBlogType } from '@vuepress/plugin-blog/client'
-import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
+import ParentLayout from '../components/ParentLayout.vue'
 import QuickList from '../components/QuickList.vue'
 
-const quickIdeas = useBlogType('quick')
+const quickIdeas = useBlogType('noRecipe')
 </script>
 
 <template>
   <ParentLayout>
-    <template #page>
-      <main class="page">
-        <h1>Quick Ideas</h1>
-        <QuickList :items="quickIdeas.items" />
-      </main>
-    </template>
+    <h1>No-Recipe Inspirations</h1>
+    <QuickList :items="quickIdeas.items" />
   </ParentLayout>
 </template>
-
-<style lang="scss">
-@use '@vuepress/theme-default/styles/mixins';
-.page {
-  @include mixins.content_wrapper;
-  margin-top: 2rem;
-}
-</style>

@@ -1,5 +1,5 @@
 <script setup>
-import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
+import ParentLayout from '../components/ParentLayout.vue'
 
 const fiberContents = {
   Vegetables: [
@@ -103,32 +103,23 @@ const fiberContents = {
 
 <template>
   <ParentLayout>
-    <template #page>
-      <main class="page">
-        <h1>Fiber content in ingredients</h1>
-        <div class="fiberContent">
-          <template v-for="(cat, catName) in fiberContents" :key="catName">
-            <h3>{{ catName }}</h3>
-            <ul class="fiberList">
-              <li v-for="item in cat" :key="item.name">
-                <div>{{ item.name }}</div>
-                <div>{{ item.fiber }}</div>
-                <div>{{ item.size }}</div>
-              </li>
-            </ul>
-          </template>
-        </div>
-      </main>
-    </template>
+    <h1>Fiber content in ingredients</h1>
+    <div class="fiberContent">
+      <template v-for="(cat, catName) in fiberContents" :key="catName">
+        <h3>{{ catName }}</h3>
+        <ul class="fiberList">
+          <li v-for="item in cat" :key="item.name">
+            <div>{{ item.name }}</div>
+            <div>{{ item.fiber }}</div>
+            <div>{{ item.size }}</div>
+          </li>
+        </ul>
+      </template>
+    </div>
   </ParentLayout>
 </template>
 
-<style lang="scss">
-@use '@vuepress/theme-default/styles/mixins';
-.page {
-  @include mixins.content_wrapper;
-  margin-top: 2rem;
-}
+<style lang="scss" scoped>
 .fiberContent {
   columns: 2;
   gap: 4rem;

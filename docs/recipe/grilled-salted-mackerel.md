@@ -2,7 +2,7 @@
 title: Grilled Salted Mackerel (Saba Shioyaki)
 author: Just One Cookbook
 authorUrl: https://www.justonecookbook.com/grilled-mackerel-saba-shioyaki/
-image: 'grilled-salted-mackerel.jpg'
+image: grilled-salted-mackerel.jpg
 category:
   - Japanese
 tag:
@@ -10,7 +10,7 @@ tag:
   - fish
   - mackerel
 excerpt: 'Baked in the oven, this Grilled Mackerel or Saba Shioyaki is the simplest fish recipe you can make on a busy weeknight. Serve steamed rice, miso soup, and a side salad to accompany this flavorful fish!'
-quick: false
+noRecipe: 'Coat mackerel with sake then pat dry. Place fish on parchment paper. Sprinkle both sides with 1/2 tsp salt. Let sit for 20 minutes. Pat dry extra moisture, then place on sheet pan skin-side down. Bake in oven at 425°F (400°F for convection) on middle rack for 15-20 minutes.'
 servings: 2
 time:
   prep: 5 mins
@@ -40,15 +40,13 @@ ingredients:
         label: soy sauce
 ---
 
-![](grilled-salted-mackerel.jpg)
-
 ## Steps
 
 1. Gather all the ingredients. I cut my mackerel fillets in half crosswise for presentation.
 2. Coat 2 fillets mackerel (saba) with 2 Tbsp sake.
 3. Pat dry with paper towels (and discard the sake) and transfer the fish to a baking sheet lined with parchment paper.
 4. Sprinkle both sides of the fish with ½ tsp salt.
-5. Let it sit at room temperature for 20 minutes. During this time, preheat the oven to 425ºF (218ºC) with a rack placed in the middle position. For a convection oven, reduce the cooking temperature by 25ºF (15ºC).
+5. Let it sit at room temperature for 20 minutes. During this time, preheat the oven to 425°F (218°C) with a rack placed in the middle position. For a convection oven, reduce the cooking temperature by 25°F (15°C).
 6. After 20 minutes, pat dry the excess moisture released from the fish.
 7. Place the fish skin side down on the parchment paper and bake for 15–20 minutes, or until the flesh is golden brown.
 

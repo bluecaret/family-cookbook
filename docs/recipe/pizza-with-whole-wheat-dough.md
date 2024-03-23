@@ -1,12 +1,12 @@
 ---
-title: 'Whole Wheat Pizza Dough'
+title: 'Pizza with Whole Wheat Dough'
 category:
   - American
 tag:
   - main
   - pizza
 excerpt: 'Whole wheat pizza crust with seeds, ready in an hour.'
-quick: false
+noRecipe: Make a quick whole wheat pizza or buy a Boboli crust and make a pizza with veggies, sauce, cheese. Try ingredients such as Ricotta, mushrooms, Fennel sausage. Or go for a different flavor with a taco pizza or Mediterranean or asian-inspired.
 time:
   prep: 15 mins
   cook: 15 mins

@@ -56,48 +56,48 @@ onUnmounted(() => {
 
 <template>
   <div class="timerWidget">
+    <button v-if="!timerActive" class="timerBtn" @click="startTimer">▶</button>
+    <button v-else class="timerBtn stop" @click="dismissTimer">▢</button>
     <input v-if="!timerActive" class="timerInput" type="number" v-model="minutes" min="1" step="1" />
     <div v-else class="timerInput">{{ remainingTime }}</div>
-    <button v-if="!timerActive" class="timerBtn" @click="startTimer">▶ Start</button>
-    <button v-else class="timerBtn stop" @click="dismissTimer">▢ Stop</button>
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .timerWidget {
   display: inline-flex;
   align-items: center;
-  margin-inline-end: 2rem;
 }
 
 .timerInput {
   display: grid;
   align-items: center;
   width: 4rem;
-  height: 2.2rem;
-  font-size: 1.4rem;
+  height: 2rem;
+  font-size: 1rem;
+  text-align: left;
   line-height: 1.3;
   padding: 0rem 0.4rem;
-  background-color: var(--c-bg-darker);
-  color: var(--c-text);
+  background-color: var(--dark-600);
+  color: var(--light-200);
   border: 0;
-  border-radius: 0.25rem 0 0 0.25rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
 }
 
 .timerBtn {
   display: grid;
   align-items: center;
-  width: 5rem;
-  height: 2.2rem;
+  width: 2.4rem;
+  height: 2rem;
   font-size: 1.2rem;
   line-height: 1.3;
   padding: 0rem 0.4rem;
-  background-color: var(--c-brand);
+  background-color: var(--primary);
   border: 0;
-  border-radius: 0 0.25rem 0.25rem 0;
+  border-radius: var(--radius) 0 0 var(--radius);
   cursor: pointer;
   &.stop {
-    background-color: var(--c-danger-border-dark);
+    background-color: orangered;
   }
 }
 </style>
