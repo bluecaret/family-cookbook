@@ -55,7 +55,9 @@ console.log(page)
             class="times"
             v-if="(page.frontmatter.time || page.frontmatter.servings) && page.frontmatter.noRecipeOnly !== true"
           >
-            <li class="time"><strong>Servings:</strong> {{ page.frontmatter.servings }}</li>
+            <li class="time" v-if="page.frontmatter.servings">
+              <strong>Servings:</strong> {{ page.frontmatter.servings }}
+            </li>
             <li class="time" v-if="page.frontmatter.time['prep']">
               <strong>Prep:</strong> {{ page.frontmatter.time['prep'] }}
             </li>
@@ -78,7 +80,11 @@ console.log(page)
               <li v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
                 <label v-if="!ingredient.heading">
                   <input type="checkbox" />
-                  <span>{{ ingredient.quantity }} {{ ingredient.unit }}</span> <strong>{{ ingredient.label }}</strong>
+                  <span v-if="ingredient.quantity || ingredient.unit" class="quantityWrapper">
+                    <span v-if="ingredient.quantity" class="quantity">{{ ingredient.quantity }}</span>
+                    <span v-if="ingredient.unit" class="quantity">{{ ingredient.unit }}</span>
+                  </span>
+                  <strong>{{ ingredient.label }}</strong>
                 </label>
               </li>
             </ul>
@@ -88,7 +94,11 @@ console.log(page)
                 <li v-for="(ingredient, index) in section.ingredients" :key="index">
                   <label>
                     <input type="checkbox" />
-                    <span>{{ ingredient.quantity }} {{ ingredient.unit }}</span> <strong>{{ ingredient.label }}</strong>
+                    <span v-if="ingredient.quantity || ingredient.unit" class="quantityWrapper">
+                      <span v-if="ingredient.quantity" class="quantity">{{ ingredient.quantity }}</span>
+                      <span v-if="ingredient.unit" class="quantity">{{ ingredient.unit }}</span>
+                    </span>
+                    <strong>{{ ingredient.label }}</strong>
                   </label>
                 </li>
               </ul>

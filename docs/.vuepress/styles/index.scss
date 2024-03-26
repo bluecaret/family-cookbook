@@ -1,5 +1,5 @@
 @import 'normalize.css';
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 :root {
   scroll-behavior: smooth;
@@ -356,16 +356,30 @@ h2 a, h3 a {
   list-style: none;
   margin: 1rem 0;
   padding: 0;
+  .quantityWrapper {
+    display: inline-block;
+    padding: .2em .1em .1em .4em;
+    background-color: var(--dark-700);
+    border-radius: .4em;
+    margin-right: 0.5em;
+  font-family: "Azeret Mono", monospace;
+  }
+  .quantity {
+    margin-right: 0.3em;
+    font-weight: 400;
+  }
+  li {
+    padding-left: 0rem;
+  }
   li label {
     display: block;
     vertical-align: middle;
     gap: 0.3rem;
     font-size: 1rem;
-    line-height: 1.3rem;
+    line-height: 1.5rem;
     border-radius: var(--radius);
-    padding: 0.5rem 0.5rem 0.5rem 2.15rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.7rem;
     background-color: var(--dark-500);
-    text-indent: -1.65rem;
     input {
       display: inline-block;
       margin-right: 0.5rem;
@@ -374,7 +388,7 @@ h2 a, h3 a {
       background-color: var(--dark-700);
     }
     strong {
-      font-weight: 700;
+      font-weight: 600;
     }
   }
 }
