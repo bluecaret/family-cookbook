@@ -33,7 +33,7 @@ const searchResults = computed(() => {
   </div>
   <div v-if="items.length && !searchResults.length" class="noResults">No recipes found. Try another search.</div>
   <div v-if="items.length && searchResults.length" class="articleWrapper quickList">
-    <article v-for="{ info, path } in items" :key="path" class="article" @click="$router.push(path)">
+    <article v-for="{ info, path } in searchResults" :key="path" class="article" @click="$router.push(path)">
       <!-- <div
         v-if="info.image"
         class="articleImage"

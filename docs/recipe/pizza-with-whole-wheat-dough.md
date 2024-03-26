@@ -1,5 +1,7 @@
 ---
 title: 'Pizza with Whole Wheat Dough'
+author: ChatGPT
+image: pizza-with-whole-wheat-dough.jpg
 category:
   - American
 tag:

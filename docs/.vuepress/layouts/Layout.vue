@@ -76,17 +76,19 @@ console.log(page)
             class="asideContent ingredientLists"
           >
             <h2>Ingredients</h2>
-            <ul class="ingredients">
-              <li v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
-                <label v-if="!ingredient.heading">
-                  <input type="checkbox" />
-                  <span v-if="ingredient.quantity || ingredient.unit" class="quantityWrapper">
-                    <span v-if="ingredient.quantity" class="quantity">{{ ingredient.quantity }}</span>
-                    <span v-if="ingredient.unit" class="quantity">{{ ingredient.unit }}</span>
-                  </span>
-                  <strong>{{ ingredient.label }}</strong>
-                </label>
-              </li>
+            <ul v-if="page.frontmatter.ingredients.filter((i) => !i.heading).length > 1" class="ingredients">
+              <template v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
+                <li v-if="!ingredient.heading">
+                  <label v-if="!ingredient.heading">
+                    <input type="checkbox" />
+                    <span v-if="ingredient.quantity || ingredient.unit" class="quantityWrapper">
+                      <span v-if="ingredient.quantity" class="quantity">{{ ingredient.quantity }}</span>
+                      <span v-if="ingredient.unit" class="quantity">{{ ingredient.unit }}</span>
+                    </span>
+                    <strong>{{ ingredient.label }}</strong>
+                  </label>
+                </li>
+              </template>
             </ul>
             <template v-for="(section, index) in page.frontmatter.ingredients" :key="index">
               <h3 v-if="section.heading">{{ section.heading }}</h3>
