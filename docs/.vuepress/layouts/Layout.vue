@@ -58,16 +58,16 @@ console.log(page)
             <li class="time" v-if="page.frontmatter.servings">
               <strong>Servings:</strong> {{ page.frontmatter.servings }}
             </li>
-            <li class="time" v-if="page.frontmatter.time['prep']">
+            <li class="time" v-if="page.frontmatter.time && page.frontmatter.time['prep']">
               <strong>Prep:</strong> {{ page.frontmatter.time['prep'] }}
             </li>
-            <li class="time" v-if="page.frontmatter.time['cook']">
+            <li class="time" v-if="page.frontmatter.time && page.frontmatter.time['cook']">
               <strong>Cook:</strong> {{ page.frontmatter.time['cook'] }}
             </li>
-            <li class="time" v-if="page.frontmatter.time['resting']">
+            <li class="time" v-if="page.frontmatter.time && page.frontmatter.time['resting']">
               <strong>Resting:</strong> {{ page.frontmatter.time['resting'] }}
             </li>
-            <li class="time" v-if="page.frontmatter.time['total']">
+            <li class="time" v-if="page.frontmatter.time && page.frontmatter.time['total']">
               <strong>Total:</strong> {{ page.frontmatter.time['total'] }}
             </li>
           </ul>
@@ -76,7 +76,7 @@ console.log(page)
             class="asideContent ingredientLists"
           >
             <h2>Ingredients</h2>
-            <ul v-if="page.frontmatter.ingredients.filter((i) => !i.heading).length > 1" class="ingredients">
+            <ul v-if="page.frontmatter.ingredients.filter((i) => !i.heading).length > 0" class="ingredients">
               <template v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
                 <li v-if="!ingredient.heading">
                   <label v-if="!ingredient.heading">
