@@ -27,7 +27,7 @@ ingredients:
 
 ## Steps
 
-1. Combine taco filler (see [taco filler](./taco-filler.md) recipe), cheddar cheese, cilantro, and frozen corn to bowl and mix well.
+1. Combine taco filler (see [taco filler](./taco-filler) recipe), cheddar cheese, cilantro, and frozen corn to bowl and mix well.
 2. Cut tops of bell peppers and empty the insides. Stuff mixture into bell peppers.
 3. Roast on a sheet pan in the oven at 350° for about 20-40 minutes till mixture is heated thoroughly and peppers are nicely roasted.
 
