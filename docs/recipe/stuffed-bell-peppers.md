@@ -7,7 +7,9 @@ category:
 tag:
   - main
   - bell pepper
-  - lentils
+  - lentil
+  - fiber
+  - bean
 excerpt: 'Bell peppers stuffed with a lentil taco filler and cheese and roasted in the oven.'
 servings: 2
 time:
