@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app-D7TpNfxO.js";const c={};function n(o,a){return r(),t("div")}const s=e(c,[["render",n],["__file","fiber.html.vue"]]),_=JSON.parse('{"path":"/fiber.html","title":"Fiber","lang":"en-US","frontmatter":{"layout":"FiberContent","title":"Fiber"},"headers":[],"excerpt":""}');export{s as comp,_ as data};
