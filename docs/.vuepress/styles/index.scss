@@ -342,6 +342,9 @@ h2 a, h3 a {
     .pageImage {
       display: none;
     }
+    .noRecipeOnly & .pageImage {
+      display: block;
+    }
   }
 }
 
@@ -469,8 +472,10 @@ h2 a, h3 a {
   aspect-ratio: 10/5;
   background-size: cover;
   background-position: center;
-  margin-block-end: 2rem;
   border-radius: var(--radius);
+  .pageContent & {
+    margin-block-end: 2rem;
+  }
 }
 
 .pageContent {

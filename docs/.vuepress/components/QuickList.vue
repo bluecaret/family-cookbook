@@ -42,7 +42,7 @@ const searchResults = computed(() => {
       <header class="title">
         {{ info.title }}
       </header>
-      <div v-if="info.excerpt" class="excerpt" v-html="info.noRecipe" />
+      <div v-if="info.noRecipe" class="excerpt" v-html="info.noRecipe" />
     </article>
   </div>
 </template>
