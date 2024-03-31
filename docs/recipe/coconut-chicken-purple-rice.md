@@ -1,6 +1,7 @@
 ---
 title: 'Coconut chicken with Purple rice'
 author: 'CardioMetabolic Food Plan (pg 12)'
+image: coconut-chicken-with-purple-rice.jpg
 category:
   - Mediterranean
 tag:

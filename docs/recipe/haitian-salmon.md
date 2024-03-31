@@ -1,5 +1,6 @@
 ---
 title: 'Haitian Salmon'
+image: haitian-salmon.jpg
 author: 'ChatGPT'
 category:
   - Haitian
