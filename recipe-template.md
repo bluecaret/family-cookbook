@@ -17,14 +17,14 @@ time:
   cook: 5 mins
   total: 15 mins
 ingredients:
-  - quantity: 1
-    unit: tsp
-    label: salt
+  - quantity:
+    unit:
+    label:
   - heading: Toppings
     ingredients:
-      - quantity: 1
-        unit: cup
-        label: green onions
+      - quantity:
+        unit:
+        label:
 ---
 
 ## Steps
