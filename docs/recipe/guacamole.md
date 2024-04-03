@@ -8,5 +8,4 @@ tag:
   - avocado
 excerpt: 'Combine 2 cloves minced garlic, ¼ cup scallions or red onion, ¼ jalapeno minced. Add 2 avocados, mash with the back of a fork. Stir in 1 tbsp lime juice. Finish w/ cilantro and sea salt.'
 noRecipe: 'Combine 2 cloves minced garlic, ¼ cup scallions or red onion, ¼ jalapeno minced. Add 2 avocados, mash with the back of a fork. Stir in 1 tbsp lime juice. Finish w/ cilantro and sea salt.'
-noRecipeOnly: true
 ---

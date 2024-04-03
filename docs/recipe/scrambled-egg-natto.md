@@ -8,5 +8,4 @@ tag:
   - natto
 excerpt: 'Scramble eggs. Add natto on top.'
 noRecipe: 'Scramble eggs. Add natto on top.'
-noRecipeOnly: true
 ---

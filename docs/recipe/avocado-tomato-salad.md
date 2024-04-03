@@ -9,5 +9,4 @@ tag:
   - tomato
 excerpt: 'Simple salad with avocado, tomatoes, and a soy sauce and mayo sauce.'
 noRecipe: 'Mix together avocado, tomatoes, mayo, soy sauce. Top with dried seaweed.'
-noRecipeOnly: true
 ---

@@ -1,4 +1,5 @@
 <script setup>
+import { computed } from 'vue'
 import ParentLayout from '../components/ParentLayout.vue'
 import { usePageData, useClientData } from 'vuepress/client'
 import { useBlogCategory } from '@vuepress/plugin-blog/client'
@@ -8,6 +9,16 @@ const page = usePageData().value
 const client = useClientData()
 const categoryMap = useBlogCategory('category').value.map
 const tagMap = useBlogCategory('tag').value.map
+
+const isNoRecipeInFullList = computed(() => {
+  return (
+    page.frontmatter.noRecipe &&
+    !page.frontmatter.noRecipeOnly &&
+    !page.frontmatter.time &&
+    !page.frontmatter.servings &&
+    !page.frontmatter.ingredients
+  )
+})
 
 console.log(page)
 </script>
@@ -37,7 +48,7 @@ console.log(page)
             !page.frontmatter.time &&
             !page.frontmatter.servings &&
             !page.frontmatter.ingredients,
-          noRecipeOnly: page.frontmatter.noRecipeOnly === true,
+          noRecipeOnly: page.frontmatter.noRecipeOnly === true || isNoRecipeInFullList,
         }"
       >
         <aside class="pageAside">
@@ -47,13 +58,17 @@ console.log(page)
             :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
           ></div>
           <div v-if="page.frontmatter.noRecipe" class="noRecipe">
-            <h2 v-if="page.frontmatter.noRecipeOnly !== true">No-recipe instructions</h2>
+            <h2 v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList">No-recipe instructions</h2>
             <p>{{ page.frontmatter.noRecipe }}</p>
-            <hr v-if="page.frontmatter.noRecipeOnly !== true" />
+            <hr v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList" />
           </div>
           <ul
             class="times"
-            v-if="(page.frontmatter.time || page.frontmatter.servings) && page.frontmatter.noRecipeOnly !== true"
+            v-if="
+              (page.frontmatter.time || page.frontmatter.servings) &&
+              page.frontmatter.noRecipeOnly !== true &&
+              !isNoRecipeInFullList
+            "
           >
             <li class="time" v-if="page.frontmatter.servings">
               <strong>Servings:</strong> {{ page.frontmatter.servings }}
@@ -72,7 +87,7 @@ console.log(page)
             </li>
           </ul>
           <div
-            v-if="page.frontmatter.ingredients && page.frontmatter.noRecipeOnly !== true"
+            v-if="page.frontmatter.ingredients && page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList"
             class="asideContent ingredientLists"
           >
             <h2>Ingredients</h2>
@@ -107,7 +122,7 @@ console.log(page)
             </template>
           </div>
         </aside>
-        <div v-if="page.frontmatter.noRecipeOnly !== true" class="pageContent">
+        <div v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList" class="pageContent">
           <div
             v-if="page.frontmatter.image"
             class="pageImage"

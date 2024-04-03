@@ -10,5 +10,4 @@ tag:
   - rice
 excerpt: 'Tuna fish w/ mayo, scrambled eggs, candied onions, optional veggies. Place on top of a bowl of rice, barely, lettuce or spinach.'
 noRecipe: 'Tuna fish w/ mayo, scrambled eggs, candied onions, optional veggies. Place on top of a bowl of rice, barely, lettuce or spinach.'
-noRecipeOnly: true
 ---

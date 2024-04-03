@@ -7,5 +7,4 @@ tag:
   - sweet potato
 excerpt: 'Baked sweet potato fries served with a dipping sauce made from Japanese mayo and sriracha.'
 noRecipe: 'Baked sweet potato fries served with a dipping sauce made from Japanese mayo and sriracha.'
-noRecipeOnly: true
 ---

@@ -8,5 +8,4 @@ tag:
   - tofu
 excerpt: 'Squeeze water out of tofu. Cut carrot, onion, snap peas, and sandwich ham to large strips. Dice tofu. Scramble eggs with salt, pepper. Stir fry carrot and onion, then add snap peas, ham, tofu, and cook longer. Season with sugar, sake, soy sauce, salt, pepper. Add egg.'
 noRecipe: 'Squeeze water out of tofu. Cut carrot, onion, snap peas, and sandwich ham to large strips. Dice tofu. Scramble eggs with salt, pepper. Stir fry carrot and onion, then add snap peas, ham, tofu, and cook longer. Season with sugar, sake, soy sauce, salt, pepper. Add egg.'
-noRecipeOnly: true
 ---

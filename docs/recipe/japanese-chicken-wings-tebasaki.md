@@ -7,5 +7,4 @@ tag:
   - chicken
 excerpt: 'Chicken wings glazed in a sweet and spicy sauce, typically deep-fried and coated with sesame seeds.'
 noRecipe: 'Chicken wings glazed in a sweet and spicy sauce, typically deep-fried and coated with sesame seeds.'
-noRecipeOnly: true
 ---
