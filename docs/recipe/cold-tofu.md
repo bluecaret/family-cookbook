@@ -1,5 +1,6 @@
 ---
 title: 'Cold tofu'
+image: 'cold-tofu.jpg'
 category:
   - Japanese
 tag:

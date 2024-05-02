@@ -1,5 +1,6 @@
 ---
 title: 'Thai Peanut Stir-Fry'
+image: 'thai-peanut-stir-fry.jpg'
 category:
   - Thai
 tag:
