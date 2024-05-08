@@ -1,4 +1,0 @@
----
-layout: FiberContent
-title: Fiber
----

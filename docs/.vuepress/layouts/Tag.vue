@@ -1,4 +1,5 @@
 <script setup>
+import { computed, ref } from 'vue'
 import { useBlogCategory } from '@vuepress/plugin-blog/client'
 import ParentLayout from '../components/ParentLayout.vue'
 import { RouteLink, useRoute } from 'vuepress/client'
@@ -6,17 +7,25 @@ import RecipeList from '../components/RecipeList.vue'
 
 const route = useRoute()
 const tagMap = useBlogCategory('tag')
+const tagsArray = Object.entries(tagMap.value.map).map(([tag, { items, path }]) => ({
+  name: tag,
+  items,
+  path: path || '/',
+}));
+
+const sortedTags = tagsArray.sort((a, b) => a.name.localeCompare(b.name));
+
 </script>
 
 <template>
   <ParentLayout>
     <h1>Tags</h1>
-    <ul class="categoriesAndTags">
-      <li class="tag" v-for="({ items, path }, name) in tagMap.map">
+    <ul v-if="sortedTags" class="categoriesAndTags">
+      <li class="tag" v-for="({ name, items, path }) in sortedTags">
         <RouteLink :key="name" :to="path" :active="route.path === path">
           {{ name }}
           <span class="tag-num">
-            {{ items.length }}
+            {{ items ? items.length : 0 }}
           </span>
         </RouteLink>
       </li>

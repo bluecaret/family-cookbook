@@ -103,6 +103,17 @@ const fiberContents = {
 
 <template>
   <ParentLayout>
+    <h1>CardioMetabolic Diet Resources</h1>
+    <ul class="resourcesList">
+      <li><a :href="$withBase('/cardiometabolic-foods.pdf')">CardioMetabolic Foods</a></li>
+      <li><a :href="$withBase('/cardiometabolic-meal-plan.pdf')">CardioMetabolic Meal Plan</a></li>
+      <li>
+        <a :href="$withBase('/cardiometabolic-diet-comprehensive-guide.pdf')"
+        >CardioMetabolic Diet Comprehensive Guide</a
+        >
+      </li>
+    </ul>
+    <hr style="margin-block: 2rem" />
     <h1>Fiber content in ingredients</h1>
     <div class="fiberContent">
       <template v-for="(cat, catName) in fiberContents" :key="catName">
@@ -159,5 +170,15 @@ const fiberContents = {
       }
     }
   }
+}
+.resourcesList {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  list-style: none;
+  margin: 1rem auto 2rem;
+  padding: 0;
+  align-items: center;
 }
 </style>

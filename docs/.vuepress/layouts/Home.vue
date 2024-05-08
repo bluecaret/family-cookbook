@@ -1,38 +1,18 @@
 <script setup>
 import { useBlogType } from '@vuepress/plugin-blog/client'
 import ParentLayout from '../components/ParentLayout.vue'
-import QuickList from '../components/QuickList.vue'
+// import QuickList from '../components/QuickList.vue'
+import RecipeList from '../components/RecipeList.vue'
 
-const quickIdeas = useBlogType('noRecipe')
+// const quickIdeas = useBlogType('noRecipe')
+const recipes = useBlogType('recipes')
 </script>
 
 <template>
   <ParentLayout>
-    <h1>No-Recipe Inspirations</h1>
-    <QuickList :items="quickIdeas.items" />
-    <hr style="margin-block: 2rem" />
-    <h1>CardioMetabolic Diet Resources</h1>
-    <ul class="resourcesList">
-      <li><a :href="$withBase('/cardiometabolic-foods.pdf')">CardioMetabolic Foods</a></li>
-      <li><a :href="$withBase('/cardiometabolic-meal-plan.pdf')">CardioMetabolic Meal Plan</a></li>
-      <li>
-        <a :href="$withBase('/cardiometabolic-diet-comprehensive-guide.pdf')"
-          >CardioMetabolic Diet Comprehensive Guide</a
-        >
-      </li>
-    </ul>
+    <!-- <h1>No-Recipe Inspirations</h1> -->
+    <!-- <QuickList :items="quickIdeas.items" /> -->
+    <h1>Recipes</h1>
+    <RecipeList :items="recipes.items" />
   </ParentLayout>
 </template>
-
-<style scoped>
-.resourcesList {
-  font-size: 1.2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  list-style: none;
-  margin: 1rem auto 2rem;
-  padding: 0;
-  align-items: center;
-}
-</style>

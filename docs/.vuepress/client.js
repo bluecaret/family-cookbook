@@ -4,7 +4,7 @@ import Category from './layouts/Category.vue'
 import Tag from './layouts/Tag.vue'
 import Layout from './layouts/Layout.vue'
 import Home from './layouts/Home.vue'
-import FiberContent from './layouts/FiberContent.vue'
+import Extras from './layouts/Extras.vue'
 import NotFound from './layouts/NotFound.vue'
 
 export default defineClientConfig({
@@ -12,7 +12,7 @@ export default defineClientConfig({
   layouts: {
     Layout,
     Home,
-    FiberContent,
+    Extras,
     Recipe,
     Category,
     Tag,

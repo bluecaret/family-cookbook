@@ -52,6 +52,15 @@ export default defineUserConfig({
             title: `Category ${name}`,
             sidebar: false,
           }),
+          // Sort pages with time and sticky
+          sorter: (pageA, pageB) => {
+            const titleA = pageA.frontmatter.title.toLowerCase() // Get lowercase title of pageA
+            const titleB = pageB.frontmatter.title.toLowerCase() // Get lowercase title of pageB
+
+            if (titleA < titleB) return -1 // pageA should come before pageB
+            if (titleA > titleB) return 1 // pageA should come after pageB
+            return 0 // titles are equal
+          },
         },
         {
           key: 'tag',
@@ -66,6 +75,15 @@ export default defineUserConfig({
             title: `Tag ${name}`,
             sidebar: false,
           }),
+          // Sort pages with time and sticky
+          sorter: (pageA, pageB) => {
+            const titleA = pageA.frontmatter.title.toLowerCase() // Get lowercase title of pageA
+            const titleB = pageB.frontmatter.title.toLowerCase() // Get lowercase title of pageB
+
+            if (titleA < titleB) return -1 // pageA should come before pageB
+            if (titleA > titleB) return 1 // pageA should come after pageB
+            return 0 // titles are equal
+          },
         },
       ],
 
@@ -73,7 +91,8 @@ export default defineUserConfig({
         {
           key: 'recipes',
           // Remove archive articles
-          filter: (page) => !page.frontmatter.archive && page.frontmatter.noRecipeOnly !== true,
+          // filter: (page) => !page.frontmatter.archive && page.frontmatter.noRecipeOnly !== true,
+          filter: (page) => !page.frontmatter.archive,
           layout: 'Recipe',
           frontmatter: () => ({
             title: 'Recipes',
@@ -88,10 +107,12 @@ export default defineUserConfig({
 
             if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
 
-            if (!pageB.frontmatter.date) return 1
-            if (!pageA.frontmatter.date) return -1
+            const titleA = pageA.frontmatter.title.toLowerCase() // Get lowercase title of pageA
+            const titleB = pageB.frontmatter.title.toLowerCase() // Get lowercase title of pageB
 
-            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime()
+            if (titleA < titleB) return -1 // pageA should come before pageB
+            if (titleA > titleB) return 1 // pageA should come after pageB
+            return 0 // titles are equal
           },
         },
         {
@@ -112,10 +133,12 @@ export default defineUserConfig({
 
             if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
 
-            if (!pageB.frontmatter.date) return 1
-            if (!pageA.frontmatter.date) return -1
+            const titleA = pageA.frontmatter.title.toLowerCase() // Get lowercase title of pageA
+            const titleB = pageB.frontmatter.title.toLowerCase() // Get lowercase title of pageB
 
-            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime()
+            if (titleA < titleB) return -1 // pageA should come before pageB
+            if (titleA > titleB) return 1 // pageA should come after pageB
+            return 0 // titles are equal
           },
         },
       ],
