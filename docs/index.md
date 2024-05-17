@@ -1,4 +1,4 @@
 ---
 layout: Home
-title: No-Recipe
+title: All Recipes
 ---
