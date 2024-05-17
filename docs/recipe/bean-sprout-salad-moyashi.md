@@ -1,5 +1,6 @@
 ---
 title: 'Bean Sprout Salad (Moyashi)'
+image: 'bean-sprout-salad.jpg'
 category:
   - Japanese
 tag:

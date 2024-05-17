@@ -1,5 +1,6 @@
 ---
 title: 'Boiled Edamame'
+image: 'boiled-edamame.jpg'
 category:
   - Japanese
 tag:

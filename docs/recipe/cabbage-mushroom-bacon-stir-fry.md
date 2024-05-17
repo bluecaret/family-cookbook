@@ -1,5 +1,6 @@
 ---
 title: 'Cabbage Mushroom Bacon stir-fry'
+image: 'cabbage-mushroom-bacon-stir-fry.jpg'
 category:
   - Japanese
 tag:

@@ -1,6 +1,7 @@
 ---
 title: 'Banana Bread'
 author: 'Stacey Wilson'
+image: 'banana-bread.jpg'
 category:
   - American
 tag:

@@ -1,6 +1,6 @@
 ---
 title: 'Seattle-style Teriyaki Chicken'
-author: 'Cheffzilla's Kitchen'
+author: 'Cheffzillas Kitchen'
 authorUrl: 'https://jeffskitchen.net/2021/05/04/seattle-style-teriyaki-chicken/'
 image: 'seattle-style-teriyaki-chicken.webp'
 category:

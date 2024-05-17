@@ -1,5 +1,6 @@
 ---
 title: 'Avocado tomato salad'
+image: 'avocado-tomato-salad.jpg'
 category:
   - Japanese
 tag:

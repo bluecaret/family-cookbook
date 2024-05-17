@@ -1,6 +1,7 @@
 ---
 title: 'Carne Asada Mushroom Fajita Tacos'
 author: 'John Hancock'
+image: 'carne-asada-mushroom-fajita-tacos.jpg'
 category:
   - Mexican
 tag:

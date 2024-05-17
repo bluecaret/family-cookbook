@@ -1,5 +1,6 @@
 ---
 title: 'Baked Ziti'
+image: 'baked-ziti.jpg'
 category:
   - Italian
 tag:
