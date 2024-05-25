@@ -1,6 +1,8 @@
 ---
 title: 'Ebi Chili (Spicy Shrimp)'
 image: 'ebi-chili.jpg'
+author: 'Japanese Cooking Channel'
+authorUrl: 'https://www.youtube.com/watch?v=-62OkUqfgLE'
 category:
   - Japanese
 tag:
