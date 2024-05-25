@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./app-DA7a1DVu.js";const a={};function s(c,o){return r(),e("div")}const _=t(a,[["render",s],["__file","extras.html.vue"]]),l=JSON.parse('{"path":"/extras.html","title":"Extras","lang":"en-US","frontmatter":{"layout":"Extras","title":"Extras"},"headers":[],"excerpt":""}');export{_ as comp,l as data};
