@@ -7,6 +7,11 @@ tag:
   - flax
   - seeds
   - fiber
-excerpt: 'Whisk 1 egg. Add 3 tbsp ground flax, ½ tsp baking powder, 1 packet stevia, 1 tbsp cinnamon or your choice of spices. Add ½ cup fruit and mix. Microwave for 1-¾ min. Variation: Sub cinnamon and fruit with ½ cup coconut flakes.'
-noRecipe: 'Whisk 1 egg. Add 3 tbsp ground flax, ½ tsp baking powder, 1 packet stevia, 1 tbsp cinnamon or your choice of spices. Add ½ cup fruit and mix. Microwave for 1-¾ min. Variation: Sub cinnamon and fruit with ½ cup coconut flakes.'
+excerpt: 'A warm, spiced treat with a moist texture and bursts of fruit, or alternatively, a rich coconut flavor, all conveniently made in a cup.'
+noRecipe:
+  - Whisk 1 egg.
+  - Add 3 tbsp ground flax, ½ tsp baking powder, 1 packet stevia, 1 tbsp cinnamon or your choice of spices.
+  - Add ½ cup fruit and mix.
+  - Microwave for 1-¾ min.
+  - Try coconut flakes, protein powder, or other flavors in exchange for the fruit and cinnamon.
 ---

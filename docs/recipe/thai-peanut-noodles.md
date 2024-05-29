@@ -8,7 +8,6 @@ tag:
   - peanut
   - noodles
 excerpt: 'Soba noodles with a thai peanut sauce.'
-noRecipeOnly: false
 ingredients:
   - quantity: 2
     unit: packs

@@ -7,8 +7,11 @@ tag:
   - main
   - chicken
 excerpt: 'Basic grilled chicken wings that can be used with any sauce. Includes recipe for Buffalo and Ginger Soy sauces.'
-noRecipe: 'Cook wings (tossed in oil, salt, pepper) in oven at 400° for 40 minutes. Turn half way. Toss in sauce. Broil for few minutes till crispy.'
-noRecipeOnly: false
+noRecipe:
+  - Cook wings (tossed in oil, salt, pepper) in oven at 400° for 40 minutes.
+  - Turn half way.
+  - Toss in sauce.
+  - Broil for few minutes till crispy.
 time:
   total: 40 mins
 ingredients:

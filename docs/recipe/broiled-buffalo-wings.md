@@ -10,8 +10,12 @@ tag:
   - chicken
   - buffalo sauce
 excerpt: "These Buffalo sauce chicken wings are actually broiled, not fried, to a perfectly crisp finish and don't contain any butter in the sauce."
-noRecipe: 'Boil chicken wings in water for 10 minutes. In bowl combine buffalo sauce, lemon juice, chicken stock. Broil wings in oven for 5-6 minutes. Flip wings and cook 4-5 minutes more. Toss wings in sauce. Broil for another minute.'
-noRecipeOnly: false
+noRecipe:
+  - Boil chicken wings in water for 10 minutes.
+  - Broil wings in oven for 5-6 minutes.
+  - Flip wings and cook 4-5 minutes.
+  - Toss wings in sauce made of buffalo sauce, lemon juice, chicken stock.
+  - Broil for another minute.
 servings: 4
 time:
   prep: 25 mins

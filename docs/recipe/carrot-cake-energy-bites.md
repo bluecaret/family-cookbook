@@ -10,6 +10,10 @@ tag:
   - snack
   - dessert
 excerpt: 'These no-cook energy bites keep well in the fridge or freezer and are easy to grab on the go for a healthy snack.'
+noRecipe:
+  - Combine dates, oats, nuts, chia seeds in food processor, pulse til combined and chopped.
+  - Add carrots, vanilla, cinnamon, ginger, tumeric, salt, pepper. Process till paste forms.
+  - Roll mixture into balls, refrigerate up to 1 week.
 servings: 22
 time:
   prep: 15 mins

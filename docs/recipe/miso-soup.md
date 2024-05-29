@@ -7,7 +7,10 @@ tag:
   - side
   - soup
 excerpt: 'Simple soup with dashi, miso paste, wakame and tofu.'
-noRecipe: 'Boil water to make dashi with tofu and wakame. Add miso paste on low heat. Optionally add: green onion, vegetables, meat, seafood.'
+noRecipe:
+  - Boil water to make dashi with tofu and wakame.
+  - Add miso paste on low heat.
+  - Optionally add - green onion, vegetables, meat, seafood.
 ingredients:
   - label: water
   - label: dashi packet

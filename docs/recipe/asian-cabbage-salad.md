@@ -10,7 +10,10 @@ tag:
   - salad
   - cabbage
 excerpt: "Simple light coleslaw with either a miso or sesame dressing. Crunchy and refreshing, it's super easy to put together in just 20 minutes!"
-noRecipe: 'Miso dressing: miso, oil, rice vinegar. Sesame dressing: Apple Cider Vinegar, sugar, toasted sesame oil, sesame seeds, black pepper. Coleslaw: Mix together in bowl thinly sliced green and red cabbage, julienned carrots, cilantro, shelled edamame, peanuts. Add dressing.'
+noRecipe:
+  - Miso dressing - miso, oil, rice vinegar.
+  - Sesame dressing - Apple Cider Vinegar, sugar, toasted sesame oil, sesame seeds, black pepper.
+  - Coleslaw - Mix thinly sliced cabbage, shredded carrots, cilantro, edamame, peanuts. Add dressing.
 servings: 3
 time:
   prep: 20 mins

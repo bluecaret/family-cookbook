@@ -6,8 +6,12 @@ tag:
   - side
   - beans
 excerpt: 'Simple homemade refried beans'
-noRecipe: 'Heat oil and garlic in pan. Add pinto beans, chili powder, cumin, cayenne, taco seasoning, onion powder and salt. Cook till thickened. Mash beans in pan with potato masher. Serve with sprinkle of cheddar cheese'
-noRecipeOnly: false
+noRecipe:
+  - Heat oil and garlic in pan.
+  - Add pinto beans, chili powder, cumin, cayenne, taco seasoning, onion powder and salt.
+  - Cook till thickened.
+  - Mash beans in pan with potato masher.
+  - Serve with sprinkle of cheddar cheese.
 ingredients:
   - quantity: 1
     unit: tbsp

@@ -9,7 +9,12 @@ tag:
   - side
   - salad
 excerpt: 'Creamy and nutty, this homemade Japanese Sesame Dressing is made from ground roasted sesame seeds, mayo, rice vinegar, and soy sauce.'
-noRecipe: 'Fry sesame seeds on low heat. Grind seeds in pestle and mortar till smooth. Combine seeds, Kewpie, rice vinegar, soy sauce, sugar, mirin, sesame oil. Whisk together. Store in fridge up to a week.'
+noRecipe:
+  - Fry sesame seeds on low heat.
+  - Grind seeds in pestle and mortar till smooth.
+  - Combine seeds, Kewpie, rice vinegar, soy sauce, sugar, mirin, sesame oil.
+  - Whisk together.
+  - Store in fridge up to a week.
 time:
   prep: 15 mins
   total: 15 mins

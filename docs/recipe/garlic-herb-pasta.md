@@ -7,8 +7,10 @@ tag:
   - side
   - angel hair
 excerpt: 'Simple pasta with a savory garlic and herb sauce over angel hair pasta.'
-noRecipe: 'Cook angel hair pasta al dente. Heat oil in pan on medium heat with garlic and herbs. Toss pasta, herbs, black pepper, and parmesan cheese in bowl. Serve.'
-noRecipeOnly: false
+noRecipe:
+  - Cook angel hair pasta al dente.
+  - Heat oil in pan on medium heat with garlic and herbs.
+  - Toss pasta, herbs, black pepper, and parmesan cheese in bowl. Serve.
 servings: 4
 ingredients:
   - quantity: 8

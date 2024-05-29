@@ -11,7 +11,6 @@ tag:
   - dessert
   - carrot
 excerpt: 'This carrot cake recipe with orange zest flavored frosting is a versatile dessert that can be enjoyed any time of day.'
-noRecipeOnly: false
 servings: 20
 time:
   prep: 25 mins

@@ -9,8 +9,6 @@ tag:
   - bread
   - banana
 excerpt: 'A classic banana bread.'
-noRecipe: ''
-noRecipeOnly: false
 time:
   total: 50 mins
 ingredients:

@@ -11,7 +11,6 @@ tag:
   - shrimp
 excerpt: 'Shrimp with a sweet and spicy sauce served with rice.'
 noRecipe: 'Cook shrimp with sauce made of ketchup, soy sauce, sake, hondashi, miso, rice vinegar, green onion, and chili sauce.'
-noRecipeOnly: false
 ingredients:
   - label: shrimp
   - label: ketchup

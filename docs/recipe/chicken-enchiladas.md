@@ -7,8 +7,13 @@ tag:
   - main
   - chicken
 excerpt: 'Enchiladas with chicken and swiss cheese.'
-noRecipe: ''
-noRecipeOnly: false
+noRecipe:
+  - Saute onion. Stir in garlic, tomato sauce, sugar, chicken, chilies.
+  - Cover and simmer for 5 minutes.
+  - Roll in tortillas.
+  - Heat bullion cubes in whip cream. Pour over tortillas.
+  - Sprinkle with cheese.
+  - Bake at 350° for 25 minutes
 servings: 2
 time:
   cook: 25 mins

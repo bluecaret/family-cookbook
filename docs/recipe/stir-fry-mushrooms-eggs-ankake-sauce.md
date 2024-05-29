@@ -7,6 +7,10 @@ tag:
   - mushroom
   - egg
   - stir-fry
-excerpt: 'Stir fry mushrooms, green onions and beaten eggs in sesame oil. Pour Ankake sauce over with green onions made by combining ½ cup chicken stock, 1 tbsp soy sauce, 1 tsp rice vinegar, ½ tbsp sugar, ½ tsp spicy chili bean paste, ½ tbsp cornstarch and whisk together, then simmered till thickened.'
-noRecipe: 'Stir fry mushrooms, green onions and beaten eggs in sesame oil. Pour Ankake sauce over with green onions made by combining ½ cup chicken stock, 1 tbsp soy sauce, 1 tsp rice vinegar, ½ tbsp sugar, ½ tsp spicy chili bean paste, ½ tbsp cornstarch and whisk together, then simmered till thickened.'
+excerpt: 'A savory and satisfying dish combining earthy mushrooms and fluffy eggs coated in a glossy, umami-rich sauce.'
+noRecipe:
+  - Combine ½ cup chicken stock, 1 tbsp soy sauce, 1 tsp rice vinegar, ½ tbsp sugar, ½ tsp spicy chili bean paste, ½ tbsp cornstarch
+  - Whisk together, then simmer till thickened to make Ankake sauce.
+  - Stir fry mushrooms, green onions, and beaten eggs in sesame oil.
+  - Pour Ankake sauce over vegetables.
 ---

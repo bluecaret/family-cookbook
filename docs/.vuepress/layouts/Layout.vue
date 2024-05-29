@@ -40,36 +40,37 @@ console.log(page)
           {{ page.frontmatter.excerpt }}
         </div>
       </header>
-      <section
-        class="pageBody"
-        :class="{
-          noAside:
-            !page.frontmatter.noRecipe &&
-            !page.frontmatter.time &&
-            !page.frontmatter.servings &&
-            !page.frontmatter.ingredients,
-          noRecipeOnly: page.frontmatter.noRecipeOnly === true || isNoRecipeInFullList,
-        }"
-      >
+      <section class="pageBody" :class="{
+        noAside:
+          !page.frontmatter.noRecipe &&
+          !page.frontmatter.time &&
+          !page.frontmatter.servings &&
+          !page.frontmatter.ingredients,
+        noRecipeOnly: page.frontmatter.noRecipeOnly === true || isNoRecipeInFullList,
+      }">
         <aside class="pageAside">
-          <div
-            v-if="page.frontmatter.image"
-            class="pageImage"
-            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
-          ></div>
+          <div v-if="page.frontmatter.image" class="pageImage"
+            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"></div>
           <div v-if="page.frontmatter.noRecipe" class="noRecipe">
             <h2 v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList">No-recipe instructions</h2>
-            <p>{{ page.frontmatter.noRecipe }}</p>
+            <template v-if="Array.isArray(page.frontmatter.noRecipe)">
+              <ul v-if="page.frontmatter.noRecipe.length > 0" class="ingredients">
+                <li v-for="(step, index) in page.frontmatter.noRecipe" :key="index">
+                  <label>
+                    <input type="checkbox" />
+                    {{ step }}
+                  </label>
+                </li>
+              </ul>
+            </template>
+            <p v-else>{{ page.frontmatter.noRecipe }}</p>
             <hr v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList" />
           </div>
-          <ul
-            class="times"
-            v-if="
-              (page.frontmatter.time || page.frontmatter.servings) &&
-              page.frontmatter.noRecipeOnly !== true &&
-              !isNoRecipeInFullList
-            "
-          >
+          <ul class="times" v-if="
+            (page.frontmatter.time || page.frontmatter.servings) &&
+            page.frontmatter.noRecipeOnly !== true &&
+            !isNoRecipeInFullList
+          ">
             <li class="time" v-if="page.frontmatter.servings">
               <strong>Servings:</strong> {{ page.frontmatter.servings }}
             </li>
@@ -86,10 +87,8 @@ console.log(page)
               <strong>Total:</strong> {{ page.frontmatter.time['total'] }}
             </li>
           </ul>
-          <div
-            v-if="page.frontmatter.ingredients && page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList"
-            class="asideContent ingredientLists"
-          >
+          <div v-if="page.frontmatter.ingredients && page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList"
+            class="asideContent ingredientLists">
             <h2>Ingredients</h2>
             <ul v-if="page.frontmatter.ingredients.filter((i) => !i.heading).length > 0" class="ingredients">
               <template v-for="(ingredient, index) in page.frontmatter.ingredients" :key="index">
@@ -123,11 +122,8 @@ console.log(page)
           </div>
         </aside>
         <div v-if="page.frontmatter.noRecipeOnly !== true && !isNoRecipeInFullList" class="pageContent">
-          <div
-            v-if="page.frontmatter.image"
-            class="pageImage"
-            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"
-          ></div>
+          <div v-if="page.frontmatter.image" class="pageImage"
+            :style="`background-image: url(${$withBase('/recipe/' + page.frontmatter.image)});`"></div>
           <Content />
         </div>
       </section>

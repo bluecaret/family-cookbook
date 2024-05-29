@@ -11,7 +11,14 @@ tag:
   - egg
   - tomato
 excerpt: 'Shakshuka is a North African and Middle Eastern meal of poached eggs in a simmering tomato sauce with spices.'
-noRecipe: 'In skillet, heat oil on medium. Add red pepper, onion. Cook 5 minutes. Add garlic and spices, cook. Pour in tomatoes, breaking large ones up. Bring to simmer. Turn down heat. Make small wells, crack in eggs. Cover and cook for 5-8 minutes. Garnish with cilantro and parsley.'
+noRecipe:
+  - In skillet, heat oil on medium.
+  - Add red pepper, onion. Cook 5 minutes.
+  - Add garlic and spices, cook.
+  - Pour in tomatoes, breaking large ones up. Bring to simmer.
+  - Turn down heat. Make small wells, crack in eggs.
+  - Cover and cook for 5-8 minutes.
+  - Garnish with cilantro and parsley.
 servings: 3
 time:
   prep: 10 mins

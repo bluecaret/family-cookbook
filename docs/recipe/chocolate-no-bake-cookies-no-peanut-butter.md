@@ -10,8 +10,6 @@ tag:
   - dessert
   - chocolate
 excerpt: 'Classic chocolate no bake cookies the way they were meant to be (no peanut butter and with coconut)'
-noRecipe: ''
-noRecipeOnly: false
 servings: 24
 time:
   prep: 5 mins

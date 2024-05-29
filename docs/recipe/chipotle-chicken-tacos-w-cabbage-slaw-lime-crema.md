@@ -10,8 +10,6 @@ tag:
   - chicken
   - chipotle
 excerpt: 'Chipotle chicken tacos with a side of slaw and a refreshing lime cream sauce.'
-noRecipe: ''
-noRecipeOnly: false
 servings: 2
 time:
   prep: 5 mins

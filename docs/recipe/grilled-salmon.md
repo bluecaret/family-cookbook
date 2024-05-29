@@ -8,5 +8,8 @@ tag:
   - fish
   - salmon
 excerpt: 'Simple salmon filet with salt and grilled in the oven.'
-noRecipe: 'Lightly coat salmon filets with salt and cook in oven at 400° on the "roast" option for 5-10 minutes. Suggested to serve with rice and roasted veggies (cooked on same pan)'
+noRecipe:
+  - Lightly coat salmon filets with salt.
+  - Cook in oven at 400° on the "roast" option for 5-10 minutes.
+  - Suggested to serve with rice and roasted veggies (cooked on same pan)
 ---

@@ -9,7 +9,6 @@ tag:
   - side
 excerpt: ''
 noRecipe: ''
-noRecipeOnly: false
 servings: 2
 time:
   prep: 5 mins

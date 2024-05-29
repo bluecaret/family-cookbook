@@ -1,5 +1,5 @@
 ---
-title: Fried Tofu in Broth (Agedashi Tofu)
+title: Agedashi Tofu (Fried Tofu in Broth)
 author: Just One Cookbook
 authorUrl: https://www.justonecookbook.com/agedashi-tofu-2/#wprm-recipe-video-container-58567
 image: agedashi-tofu.jpg
@@ -10,7 +10,12 @@ tag:
   - soup
   - tofu
 excerpt: 'Crispy tofu cubes served over a flavorful umami-rich broth.'
-noRecipe: 'Cubes of tofu rolled in cornstarch fried in oil. Served over broth made with dashi, mirin, soy sauce, cornstarch slurry. Pour broth over tofu in bowl. Garnish w/ ginger, green onion, nori.'
+noRecipe:
+  - Cover cubes of tofu in cornstarch.
+  - Fry tofu in oil.
+  - Make broth with dashi, mirin, soy sauce, cornstarch slurry.
+  - Pour broth over tofu in bowl.
+  - Garnish w/ ginger, green onion, nori.
 servings: 2
 time:
   prep: 15 mins

@@ -10,7 +10,6 @@ tag:
   - snack
   - oatmeal
 excerpt: 'Basic oatmeal squares that can be dressed up anyway you like.'
-noRecipeOnly: false
 servings: 9
 time:
   prep: 10 mins
