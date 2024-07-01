@@ -9,7 +9,6 @@ tag:
   - main
   - side
 excerpt: 'A staple on Spanish tapas menus everywhere, gambas al ajillo is a dead simple but genius combination of shrimp infused with garlic, paprika, and a touch of chile heat.'
-noRecipe: ''
 servings: 4
 ingredients:
   - quantity: ¼

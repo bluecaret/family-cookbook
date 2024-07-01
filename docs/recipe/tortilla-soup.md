@@ -9,7 +9,7 @@ tag:
   - side
   - main
   - soup
-excerpt: 'Between the pulled chicken, the soothing tomato broth, and the pile of fixings, what's not to love?'
+excerpt: "Between the pulled chicken, the soothing tomato broth, and the pile of fixings, what's not to love?"
 servings: 4
 ingredients:
   - quantity: 1
