@@ -1,5 +1,5 @@
 ---
-title: 'Tune no-pasta salad bowl'
+title: 'Tuna no-pasta salad bowl'
 category:
   - American
 tag:

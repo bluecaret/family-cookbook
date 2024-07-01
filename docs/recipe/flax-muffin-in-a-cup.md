@@ -1,5 +1,6 @@
 ---
 title: 'Flax muffin in a cup'
+image: 'flax-muffin-in-a-cup.jpg'
 category:
   - American
 tag:

@@ -1,5 +1,6 @@
 ---
 title: 'Sesame Broccoli Egg Salad'
+image: 'sesame-broccoli-egg-salad.jpg'
 category:
   - Japanese
 tag:

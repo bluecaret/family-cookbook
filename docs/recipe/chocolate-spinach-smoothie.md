@@ -1,5 +1,6 @@
 ---
 title: 'Chocolate Spinach Smoothie'
+image: 'chocolate-spinach-smoothie.jpg'
 category:
   - Other
 tag:
