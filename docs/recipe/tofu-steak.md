@@ -1,5 +1,6 @@
 ---
 title: 'Tofu steak'
+image: 'tofu-steak.jpg'
 category:
   - Japanese
 tag:
