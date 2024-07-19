@@ -1,64 +1,58 @@
 ---
 title: 'Brownies with Whole Wheat and Flax'
-author: 'FamilyFunFoodandFacts on YouTube'
-authorUrl: 'https://www.youtube.com/watch?v=DixBAaA4ZNI'
+author: 'Gabby at The Cookie Dough Diaries'
+authorUrl: 'https://thecookiedoughdiaries.com/small-batch-brownies/#recipe'
 image: 'brownies-with-whole-wheat-flour.jpg'
 category:
   - American
 tag:
   - dessert
-excerpt: 'Healthier brownies that can still 100% be classified as brownies!'
+excerpt: 'These small batch brownies are gooey, fudgy, and have a perfect crinkle top.'
 time:
-  prep: 5 mins
-  cook: 25-35 mins
-  total: 40 mins
+  prep: 10 mins
+  cook: 27 mins
+  total: 37 mins
 ingredients:
-  - quantity: 3
+  - quantity: 6
     unit: tbsp
-    label: vegetable oil
-  - quantity: 225
-    unit: grams
-    label: butter (2 sticks)
-  - quantity: 350
-    unit: grams
-    label: brown sugar (1¾c)
-  - quantity: 130
-    unit: grams
-    label: whole wheat flour (1c)
-  - quantity: 115
-    unit: grams
-    label: unsweetened cocoa powder (¾c)
-  - quantity: 4
-    label: eggs
+    label: butter, melted
+  - quantity: 8
+    unit: tbsp
+    label: granulated sugar (½c)
+  - quantity: 6
+    unit: tbsp
+    label: brown sugar
   - quantity: 1
-    unit: tsp
-    label: corn starch
-  - quantity: 1
+    label: egg
+  - quantity: ½
+    unit: tbsp
+    label: vanilla (optional)
+  - quantity: 5
+    unit: tbsp
+    label: whole wheat flour
+  - quantity: 6
+    unit: tbsp
+    label: unsweetened cocoa powder
+  - quantity: ⅛
     unit: tsp
     label: salt
-  - quantity: 1
-    unit: tsp
-    label: vanilla (optional)
-  - quantity: 25
-    unit: grams
-    label: ground flax seed (¼c)
-  - quantity: 150
-    unit: grams
+  - quantity: ⅓
+    unit: cup
     label: chocolate chips (optional)
-  - quantity: 200
-    unit: grams
-    label: berries (optional)
 ---
 
 ## Steps
 
-1. Preheat the oven to 350°F (175°C) and grease 7x11 inch baking, or any other tin you may have.
-2. In a bowl put the butter, sugar, oil. Put it in a water bath or you can melt the butter in a microwave bowl with the sugar and oil.
-3. Add the eggs, and combine the mixture thoroughly.
-4. Combine all the dry ingredients, sieve them, and add them to the wet ingredients. Mix it thoroughly.
-5. Pour the batter into the prepared pan.
-6. Bake for 25-35 minutes, when you touch the brownies in the center they should be still soft. Everyone's oven is different so bake accordingly.
-7. Remove from the oven and allow it to cool at room temperature before removing from the baking tray.
+1. Preheat the oven to 350°F (175°C) and line a 8x4 inch loaf pan with parchment paper.
+2. Place the butter in a microwave-safe bowl and heat in the microwave until melted (or melt butter over the stove).
+3. Add in both sugars and whisk until the mixture pulls away easily from the sides of the bowl as you mix, with a paste-like consistency.
+4. Whisk in the egg and vanilla extract.
+5. Add flour, cocoa powder, and salt, then whisk until just combined. Stir in the chocolate chips.
+6. Pour the batter into the parchment-lined pan, spreading it around in an even layer and bake for 26-36 minutes. If using a glass baking dish instead of aluminium, the brownies will take longer to bake.
+
+The top should be crackly and a toothpick inserted in the middle should come out with just a few wet crumbs on it, but not covered in batter or completely clean. The batter should also not be jiggly in the pan.
+
+Let the brownies cool completely in the pan before slicing.
 
 ## Adjustments to recipe
 
