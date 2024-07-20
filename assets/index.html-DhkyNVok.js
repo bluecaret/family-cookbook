@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as c}from"./app-Dh6BB9gj.js";const n={};function o(r,a){return c(),t("div")}const s=e(n,[["render",o],["__file","index.html.vue"]]),_=JSON.parse('{"path":"/","title":"All Recipes","lang":"en-US","frontmatter":{"layout":"Home","title":"All Recipes"},"headers":[],"excerpt":""}');export{s as comp,_ as data};
