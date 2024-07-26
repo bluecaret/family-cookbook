@@ -53,7 +53,7 @@ ingredients:
 
 1. Add the yeast and egg yolk to the scald and whisk until smooth.
 2. Add the flour and mix to a dough.
-3. Chill in fridge, covered, for 15 minutes.
+3. Switch to a clean bowl and chill in fridge, covered, for 15 minutes.
 4. Fold #1: Fold the dough
 5. Chill in fridge, covered, for 15 minutes.
 6. Fold #2: Fold the dough
