@@ -10,16 +10,7 @@ tag:
   - bread
   - whole wheat
 excerpt: 'This 100% Whole Wheat No-Knead Sandwich Loaf is a very soft, springy, and flavorful loaf that will stay soft for days.'
-servings: 2
-time:
-  prep: 5 mins
-  rest: 5 mins
-  cook: 5 mins
-  total: 15 mins
 ingredients:
-  - quantity:
-    unit:
-    label:
   - heading: Scald
     ingredients:
       - quantity: 100
