@@ -47,7 +47,7 @@ ingredients:
 ### Make the Scald
 
 1. In a large bowl combine all the scald ingredients and whisk until smooth.
-2. Leave to cool down to about 77°. _See notes._
+2. Cover and leave to cool down to about 77°. _See notes._
 
 ### Make the dough
 
