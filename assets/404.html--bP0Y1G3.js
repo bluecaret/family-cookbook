@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,b as n}from"./app-CFAc1Nni.js";const c={},a=n("p",null,"404 Not Found",-1),s=[a];function r(_,l){return o(),e("div",null,s)}const p=t(c,[["render",r],["__file","404.html.vue"]]),m=JSON.parse('{"path":"/404.html","title":"","lang":"en-US","frontmatter":{"layout":"NotFound"},"headers":[],"excerpt":"<p>404 Not Found</p>\\n"}');export{p as comp,m as data};
