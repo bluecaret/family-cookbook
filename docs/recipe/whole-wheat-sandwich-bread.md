@@ -19,13 +19,13 @@ ingredients:
       - quantity: 30
         unit: g
         label: sweet syrup (e.g. honey) (1oz)
-      - qunatity: 30
+      - quantity: 30
         unit: g
         label: butter (1oz)
-      - qunatity: 10
+      - quantity: 10
         unit: g
         label: salt (.35oz)
-      - qunatity: 340
+      - quantity: 340
         unit: g
         label: boiling water (10oz)
   - heading: Main dough
