@@ -16,33 +16,33 @@ time:
   cook: 30 mins
   total: 2 hours 40 mins
 ingredients:
-  - quantity: 8
+  - quantity: 4
     label: boneless, skinless chicken thighs
   - quantity: 1
-    unit: cup
-    label: soy sauce
-  - quantity: ½
-    unit: cup
-    label: water
-  - quantity: ¼
-    unit: cup
-    label: rice wine vinegar
-  - quantity: 1
-    unit: cup
-    label: brown sugar
-  - quantity: 2
     unit: tbsp
     label: cornstarch
-  - quantity: 4-5
-    unit: cloves
-    label: garlic, minced
-  - quantity: 3
-    unit: tsp
-    label: ginger, grated
-  - quantity: 3
-    unit: whole
-    label: green onions
-  - label: toasted sesame seed
+  - label: green onions (garnish)
+  - label: toasted sesame seed (garnish)
+  - heading: Teriyaki Sauce
+    ingredients:
+      - quantity: ½
+        unit: cup
+        label: soy sauce
+      - quantity: ¼
+        unit: cup
+        label: water
+      - quantity: ⅛
+        unit: cup
+        label: rice wine vinegar
+      - quantity: ¼
+        unit: cup
+        label: brown sugar
+      - quantity: 2-3
+        unit: cloves
+        label: garlic, minced
+      - quantity: 1
+        unit: tsp
+        label: ginger, grated
 ---
 
 ## Steps
@@ -63,3 +63,7 @@ ingredients:
 7. Garnish with green onions and sesame seeds.
 
 Serve with cabbage salad, sticky rice, and pickles.
+
+## Notes
+
+- This recipe has been adjusted from the original source. It was cut in half to support 4 chicken thighs (or 2 chicken thighs with extra sauce leftover). The brown sugar has been cut in half. The ginger has been lowered a bit.

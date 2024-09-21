@@ -12,6 +12,23 @@ tag:
   - dressing
   - soup
   - marinade
+  - sesame
+  - teriyaki
+  - agedashi
+  - mentsuyu
+  - noodle
+  - miso
+  - ponzu
+  - tonkatsu
+  - yakisoba
+  - teppanyaki
+  - yakiniku
+  - unagi
+  - bbq
+  - grilled
+  - kobe
+  - goma dare
+  - tsuyu
 excerpt: 'Easy and popular Japanese sauces, dressings, and broths that go well with everything!'
 ---
 
