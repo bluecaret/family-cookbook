@@ -21,7 +21,7 @@ ingredients:
       - quantity: 1½
         unit: cups
         label: all-purpose flour
-      - quantity: ⅔
+      - quantity: 2/3
         unit: cup
         label: flaxseed meal
       - quantity: 2
@@ -50,7 +50,7 @@ ingredients:
       - quantity: ½
         unit: cup
         label: packed brown sugar
-      - quantity: ⅓
+      - quantity: ½
         unit: cup
         label: canola oil
   - heading: Frosting
