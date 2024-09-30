@@ -10,11 +10,11 @@ tag:
   - chicken
 excerpt: 'Marinated in a delicious savory sauce, baked Garlic Miso Chicken Wings are crispy on the outside and juicy and succulent inside.'
 noRecipe:
-  - Marinate chicken wings in minced garlic, miso, soy sauce, mirin for at least 6 hours.
+  - Marinate chicken wings in 1 part miso, 1 part soy sauce, 1 part mirin, and minced garlic for at least 6 hours.
   - Remove marinade from chicken as miso burns.
   - Place chicken skin side down on pan.
-  - Broil on middle rack for 9-10 minutes.
-  - Flip, then cook another 9-10 minutes.
+  - Broil on high on middle rack for 9-10 minutes (or bake at 425° for 20 minutes).
+  - Flip, then cook another 9-10 minutes (or another 15-20 if baking).
 servings: 2
 time:
   prep: 5 mins
