@@ -13,8 +13,7 @@ noRecipe:
   - Roll in tortillas.
   - Heat bullion cubes in whip cream. Pour over tortillas.
   - Sprinkle with cheese.
-  - Bake at 350° for 25 minutes
-servings: 2
+  - Bake at 350° for 25 minutes
 time:
   cook: 25 mins
   total: 25 mins
