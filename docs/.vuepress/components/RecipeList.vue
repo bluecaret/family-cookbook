@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed } from "vue";
 
 const props = defineProps({
   /** Article items */
@@ -9,38 +9,63 @@ const props = defineProps({
   },
   /** Whether is timeline or not */
   isTimeline: Boolean,
-})
+});
 
-const searchTerm = ref('')
+const searchTerm = ref("");
 
 const searchResults = computed(() => {
   if (!searchTerm.value.trim()) {
-    return props.items
+    return props.items;
   }
 
-  const searchFields = ['title', 'excerpt'] // Configure the fields to search here
+  const searchFields = ["title", "excerpt"]; // Configure the fields to search here
 
   return props.items.filter((item) =>
-    searchFields.some((field) => item.info[field]?.toString().toLowerCase().includes(searchTerm.value.toLowerCase()))
-  )
-})
+    searchFields.some((field) =>
+      item.info[field]
+        ?.toString()
+        .toLowerCase()
+        .includes(searchTerm.value.toLowerCase())
+    )
+  );
+});
 </script>
 
 <template>
-  <div v-if="!items.length" class="noResults">Select a tag above to view recipes within it.</div>
+  <div v-if="!items.length" class="noResults">
+    Select a tag above to view recipes within it.
+  </div>
   <div v-if="items.length" class="searchBar">
     <input type="text" placeholder="Search..." v-model="searchTerm" />
   </div>
-  <div v-if="items.length && !searchResults.length" class="noResults">No recipes found. Try another search.</div>
-  <div v-if="items.length && searchResults.length" class="articleWrapper quickList">
-    <article v-for="{ info, path } in searchResults" :key="path" class="article" @click="$router.push(path)">
+  <div v-if="items.length && !searchResults.length" class="noResults">
+    No recipes found. Try another search.
+  </div>
+  <div
+    v-if="items.length && searchResults.length"
+    class="articleWrapper quickList"
+  >
+    <article
+      v-for="{ info, path } in searchResults"
+      :key="path"
+      class="article"
+      @click="$router.push(path)"
+    >
       <div
         v-if="info.image"
         class="articleImage"
         :style="`background-image: url(${$withBase('/recipe/' + info.image)});`"
       ></div>
+      <div
+        v-else
+        class="articleImage"
+        :style="`background-image: url(${$withBase('/recipe/_no-image.jpg')});`"
+      ></div>
       <header class="title">
-        {{ (isTimeline ? `${new Date(info.date).toLocaleDateString()}: ` : '') + info.title }}
+        {{
+          (isTimeline ? `${new Date(info.date).toLocaleDateString()}: ` : "") +
+          info.title
+        }}
       </header>
 
       <div v-if="info.excerpt" class="excerpt" v-html="info.excerpt" />

@@ -1,19 +1,21 @@
 ---
-title: 'Chicken Enchiladas'
-author: 'Ginny Porterfield'
+title: "Chicken Enchiladas"
+author: "Ginny Porterfield"
+image: "chicken-enchiladas.jpg"
 category:
   - Mexican
 tag:
   - main
   - chicken
-excerpt: 'Enchiladas with chicken and swiss cheese.'
+excerpt: "Enchiladas with chicken and swiss cheese."
 noRecipe:
   - Saute onion. Stir in garlic, tomato sauce, sugar, chicken, chilies.
   - Cover and simmer for 5 minutes.
   - Roll in tortillas.
   - Heat bullion in whip cream. Pour over tortillas.
   - Sprinkle with cheese.
-  - Bake at 350° for 15 minutes
+  - Bake at 350° for 15 minutes
+
 time:
   cook: 25 mins
   total: 25 mins
@@ -23,7 +25,8 @@ ingredients:
     label: onion
   - quantity: 1
     unit: clove
-    label: garlic
+    label: garlic
+
   - quantity: 2
     unit: 8oz can
     label: tomato sauce
@@ -38,7 +41,8 @@ ingredients:
     label: salt
   - quantity: ¼
     unit: tsp
-    label: sugar
+    label: sugar
+
   - quantity: 2
     unit: tsp
     label: chicken bullion powder

@@ -1,12 +1,13 @@
 ---
-title: 'Garlic Herb Pasta'
+title: "Garlic Herb Pasta"
+image: "garlic-herb-pasta.jpg"
 category:
   - Italian
 tag:
   - main
   - side
   - angel hair
-excerpt: 'Simple pasta with a savory garlic and herb sauce over angel hair pasta.'
+excerpt: "Simple pasta with a savory garlic and herb sauce over angel hair pasta."
 noRecipe:
   - Cook angel hair pasta al dente.
   - Heat oil in pan on medium heat with garlic and herbs.
