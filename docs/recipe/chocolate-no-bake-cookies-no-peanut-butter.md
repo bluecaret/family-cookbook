@@ -1,15 +1,15 @@
 ---
-title: 'Chocolate No-Bake Cookies (no peanut butter)'
-author: 'Angela at BakeItWithLove.com'
-authorUrl: 'https://bakeitwithlove.com/chocolate-no-bake-cookies-without-peanut-butter/'
-image: 'chocolate-no-bake-cookies-no-peanut-butter.webp'
+title: "Chocolate No-Bake Cookies (no peanut butter)"
+author: "Angela at BakeItWithLove.com"
+authorUrl: "https://bakeitwithlove.com/chocolate-no-bake-cookies-without-peanut-butter/"
+image: "chocolate-no-bake-cookies-no-peanut-butter.webp"
 category:
   - American
 tag:
   - snack
   - dessert
   - chocolate
-excerpt: 'Classic chocolate no bake cookies the way they were meant to be (no peanut butter and with coconut)'
+excerpt: "Classic chocolate no bake cookies the way they were meant to be (no peanut butter and with coconut)"
 servings: 24
 time:
   prep: 5 mins
@@ -19,10 +19,10 @@ ingredients:
   - quantity: 2
     unit: cups
     label: sugar
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: butter (one stick)
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: milk
   - quantity: 4

@@ -1,14 +1,14 @@
 ---
-title: 'Stuffed Chicken'
-author: 'Cook This Not That (page 240)'
-authorUrl: 'https://www.eatthis.com/stuffed-chicken-breast-recipe/'
-image: 'stuffed-chicken.webp'
+title: "Stuffed Chicken"
+author: "Cook This Not That (page 240)"
+authorUrl: "https://www.eatthis.com/stuffed-chicken-breast-recipe/"
+image: "stuffed-chicken.webp"
 category:
   - American
 tag:
   - main
   - chicken
-excerpt: 'With spinach, cheese, peppers, and prosciutto in each bite, no other chicken dish can compare.'
+excerpt: "With spinach, cheese, peppers, and prosciutto in each bite, no other chicken dish can compare."
 ingredients:
   - quantity: 2
     unit: tbsp
@@ -19,13 +19,13 @@ ingredients:
   - quantity: 4
     unit: cups
     label: babby spinach
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: roasted red pepper
   - label: salt and pepper, to taste
   - quantity: 4
-    label: boneless, skinless chicken breasts, pounded to ½ inch thick
-  - quantity: ½
+    label: boneless, skinless chicken breasts, pounded to 1/2 inch thick
+  - quantity: 1/2
     unit: cup
     label: shredded mozzarella cheese
   - quantity: 2

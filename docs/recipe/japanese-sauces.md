@@ -1,8 +1,8 @@
 ---
-title: 'Japanese Sauces'
-author: 'JustOneCookbook'
-authorUrl: 'https://www.justonecookbook.com/best-japanese-sauce-recipes'
-image: 'japanese-sauces.png'
+title: "Japanese Sauces"
+author: "JustOneCookbook"
+authorUrl: "https://www.justonecookbook.com/best-japanese-sauce-recipes"
+image: "japanese-sauces.png"
 category:
   - Japanese
 tag:
@@ -29,7 +29,7 @@ tag:
   - kobe
   - goma dare
   - tsuyu
-excerpt: 'Easy and popular Japanese sauces, dressings, and broths that go well with everything!'
+excerpt: "Easy and popular Japanese sauces, dressings, and broths that go well with everything!"
 ---
 
 Here are the easy and popular Japanese sauces that go well with everything! From the citrusy ponzu sauce to yakiniku BBQ sauce to all-purpose miso, each of them is going to make your dishes more delicious, and your life more flavorful.
@@ -86,10 +86,10 @@ Creamy and nutty, this homemade Japanese Sesame Dressing is made easily.
 - 3 parts sesame seeds, toasted
 - 2 parts Kewpie mayo
 - 2 parts rice vinegar
-- 1½ parts soy sauce
-- ½ part sugar
-- ¼ part mirin
-- ¼ part sesame oil
+- 1-1/2 parts soy sauce
+- 1/2 part sugar
+- 1/4 part mirin
+- 1/4 part sesame oil
 
 Toast seeds in pan on low heat, 2-3 minutes till they start popping. Grind seeds with mortar till smooth. Whisk ingredients together.
 
@@ -107,14 +107,14 @@ Creamy, flavorful, and savory, this sesame sauce can be enjoyed as a dipping sau
 
 - 3 parts sesame paste (see note below)
 - 2 parts dashi stock
-- 1⅓ part sugar
-- 1⅓ part rice vinegar
+- 1-1/3 part sugar
+- 1-1/3 part rice vinegar
 - 1 part soy sauce
 - Dash of salt
 
 Mix sesame paste well before measuring. Add paste and sugar to bowl and mix till dissolved. Add soy sauce, rice vinegar and mix. Gradually add dashi stock little at a time. Blend completely before adding more. Add salt if needed.
 
-Sesame paste: Substitute for tahini or make your own by toasting sesame seeds, and then place in food processor till paste forms. Add bit of sesame oil if processor struggles. Note that 1 cup seeds yields ⅓ cup paste.
+Sesame paste: Substitute for tahini or make your own by toasting sesame seeds, and then place in food processor till paste forms. Add bit of sesame oil if processor struggles. Note that 1 cup seeds yields 1/3 cup paste.
 
 Stores in fridge for 1 week.
 
@@ -130,8 +130,8 @@ _Use for: agedashi, soup base._
 
 - 4 cups dashi stock
 - 5 tbsp mirin
-- 2½ tbsp soy sauce
-- cornstarch slurry (1½ tsp cornstarch, 1 tbsp water)
+- 2-1/2 tbsp soy sauce
+- cornstarch slurry (1-1/2 tsp cornstarch, 1 tbsp water)
 
 Add water, dashi packets, mirin, soy sauce in pot and bring to simmer. Optionally add cornstarch slurry to thicken.
 
@@ -147,7 +147,7 @@ _Use for: noodle soup base, rice bowls, hot pots, tempura dipping sauce._
 
 Lightly smoky and full of umami, Mentsuyu is a Japanese soup base used either hot or cold in a multitude of noodle dishes.
 
-- 2¼ parts mirin
+- 2-1/4 parts mirin
 - 2 parts soy sauce
 - 2 part hondashi
 - 1 part sake
@@ -170,7 +170,7 @@ _Use for: dipping sauce._
 - 3 part soy sauce
 - 3 part rice vinegar
 - 1 part sugar
-- ½ part Japanese chili oil (optional)
+- 1/2 part Japanese chili oil (optional)
 
 Combine ingredients together and whisk.
 
@@ -189,7 +189,7 @@ This all-purpose miso sauce adds delicious depth and complexity to everything it
 - 2 part miso
 - 2 part mirin
 - 1 part sake
-- ¼ part sugar
+- 1/4 part sugar
 
 Whisk together, bring to boil over med heat. Once boiling reduce to low heat. Keep stirring and scraping bottom. Simmer for 20-30 minutes till thickened.
 
@@ -209,7 +209,7 @@ Bright, savory, and tangy, ponzu sauce is a very versatile Japanese condiment th
 
 - 1 part soy sauce
 - 1 part citrus (lemon, lemon and lime, or yuzu)
-- ½ part mirin
+- 1/2 part mirin
 
 Garnish with green onions, sesame seeds, or grated daikon.
 
@@ -225,7 +225,7 @@ _Use for: tonkatsu cutlet, chicken katsu, korokke, ebi fry._
 
 If you make Japanese deep-fried dishes at home regularly, you will want to serve them with this quick and easy Tonkatsu Sauce.
 
-- 2½ parts Ketchup
+- 2-1/2 parts Ketchup
 - 2 parts Worcestershire sauce
 - 1 part sugar
 - 1 part oyster sauce
@@ -247,8 +247,8 @@ This yakisoba sauce is the default to season the popular Japanese fried noodles,
 - 7 parts Worcestershire sauce
 - 3 parts oyster sauce
 - 2 parts ketchup
-- 1½ parts soy sauce
-- 1½ parts sugar
+- 1-1/2 parts soy sauce
+- 1-1/2 parts sugar
 
 Mix together, store in jar in fridge for a month.
 
@@ -268,10 +268,10 @@ Sweet, savory, and flavorful, teppanyaki sauce is a Japanese BBQ sauce that comp
 - 2 parts mirin
 - 2 parts sugar
 - 1 part sake
-- ½ part sesame oil
-- ½ part sesame seeds
-- ¼ part ginger
-- ¼ part garlic
+- 1/2 part sesame oil
+- 1/2 part sesame seeds
+- 1/4 part ginger
+- 1/4 part garlic
 
 Heat sake and mirin till alcohol evaporates about 1-2 minutes. Add remaining ingredients and whisk then remove from heat.
 
@@ -289,13 +289,13 @@ _Use for: dipping for thin sliced beef, dipping for fresh spring rolls, pan-frie
 
 This sweet and savory Japanese BBQ sauce is perfect for dipping thin slices of well-marbled beef short ribs and other grilled delicacies.
 
-- ¼ sweet onion (grated with juice)
+- 1/4 sweet onion (grated with juice)
 - 3 cloves garlic
-- ⅛ tsp ginger
-- ¼ tsp gochujang (korean chili paste)
-- ¼ cup soy sauce
+- 1/8 tsp ginger
+- 1/4 tsp gochujang (korean chili paste)
+- 1/4 cup soy sauce
 - 2 tbsp sugar
-- ½ tbsp sesame seeds
+- 1/2 tbsp sesame seeds
 - 1 tsp sesame oil
 
 Combine all ingredients except for sesame oil in a jar and microwave for 30-35 seconds till hot enough to dissolve sugar. Add sesame oil and mix well.
@@ -317,7 +317,7 @@ It’s not just for unagi eel, but a multitude of BBQ dishes. The richness and c
 - 2 parts soy sauce
 - 2 parts mirin
 - 1 part sugar
-- ¾ part sake
+- 3/4 part sake
 
 Heat mixture till boiling, lower heat to med-low, simmer for 10-15 minutes till thickened.
 

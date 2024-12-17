@@ -9,7 +9,7 @@ tag:
   - side
   - soup
   - tofu
-excerpt: 'Crispy tofu cubes served over a flavorful umami-rich broth.'
+excerpt: "Crispy tofu cubes served over a flavorful umami-rich broth."
 noRecipe:
   - Cover cubes of tofu in cornstarch.
   - Fry tofu in oil.
@@ -22,7 +22,7 @@ time:
   cook: 15 mins
   total: 30 mins
 ingredients:
-  - quantity: ½
+  - quantity: 1/2
     unit: block
     label: firm tofu
   - label: neutral oil
@@ -40,7 +40,7 @@ ingredients:
       - quantity: 2
         unit: packets
         label: dashi
-      - quantity: 2½
+      - quantity: 2-1/2
         unit: tbsp
         label: soy sauce
       - quantity: 5
@@ -64,7 +64,7 @@ ingredients:
 
 ### Soup
 
-1. Make Tsuyu sauce by boiling water with Dashi packets, mirin, soy sauce and a cornstarch slurry (1½ tsp cornstarch and 1 tbsp water).
+1. Make Tsuyu sauce by boiling water with Dashi packets, mirin, soy sauce and a cornstarch slurry (1-1/2 tsp cornstarch and 1 tbsp water).
 2. Pour broth over tofu.
 3. Garnish with ginger paste, green onion, and nori. Serve.
 

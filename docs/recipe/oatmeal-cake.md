@@ -1,19 +1,19 @@
 ---
-title: 'Oatmeal Cake'
+title: "Oatmeal Cake"
 category:
   - American
 tag:
   - side
   - dessert
   - snack
-excerpt: 'Tasty cake made with oatmeal.'
+excerpt: "Tasty cake made with oatmeal."
 time:
   total: 30 mins
 ingredients:
   - quantity: 1
     unit: cup
     label: oatmeal
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: cups
     label: hot water
   - quantity: 1
@@ -25,7 +25,7 @@ ingredients:
   - quantity: 1
     unit: cup
     label: brown sugar
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: oil
   - quantity: 2
@@ -37,7 +37,7 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: baking soda
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
   - quantity: 1

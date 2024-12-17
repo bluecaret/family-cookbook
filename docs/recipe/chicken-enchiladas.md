@@ -36,10 +36,10 @@ ingredients:
   - quantity: 1
     unit: 4oz can
     label: chilies
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: sugar
 
@@ -49,7 +49,7 @@ ingredients:
   - quantity: 2
     unit: cup
     label: lite whip cream
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: cup
     label: swiss
   - label: flour tortillas

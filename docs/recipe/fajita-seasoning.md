@@ -1,20 +1,20 @@
 ---
-title: 'Taco/Fajita Seasoning'
-author: 'Simply Recipes'
-authorUrl: 'https://www.simplyrecipes.com/fajita-seasoning-recipe-7367673'
-image: 'fajita-seasoning.webp'
+title: "Taco/Fajita Seasoning"
+author: "Simply Recipes"
+authorUrl: "https://www.simplyrecipes.com/fajita-seasoning-recipe-7367673"
+image: "fajita-seasoning.webp"
 category:
   - Mexican
 tag:
   - seasoning
   - chicken
   - fish
-excerpt: 'The mix of chili powder, cumin, and other savory spices is perfectly balanced for an excellent taco or fajitas.'
+excerpt: "The mix of chili powder, cumin, and other savory spices is perfectly balanced for an excellent taco or fajitas."
 ingredients:
   - quantity: 4
     unit: tsp
     label: chili powder
-  - quantity: 2½
+  - quantity: 2-1/2
     unit: tsp
     label: salt
   - quantity: 2
@@ -29,13 +29,13 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: dried oregano
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: black pepper
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: paprika
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: chipotle chile powder, optional
 ---

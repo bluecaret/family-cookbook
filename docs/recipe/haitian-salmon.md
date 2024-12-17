@@ -1,14 +1,14 @@
 ---
-title: 'Haitian Salmon'
+title: "Haitian Salmon"
 image: haitian-salmon.jpg
-author: 'ChatGPT'
+author: "ChatGPT"
 category:
   - Haitian
 tag:
   - main
   - fish
   - salmon
-excerpt: 'A Haitian-style meal with salmon and vegetables.'
+excerpt: "A Haitian-style meal with salmon and vegetables."
 servings: 2
 time:
   resting: 30 mins
@@ -23,33 +23,33 @@ ingredients:
   - quantity: 2
     unit: cloves
     label: garlic, minced
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ginger, ground
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: paprika
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: clove, ground
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: thyme
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: black pepper
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
   - quantity: 1
     unit: tbsp
     label: olive oil
-  - quantity: ½
+  - quantity: 1/2
     unit: large
     label: onion, sliced
-  - quantity: ½
+  - quantity: 1/2
     label: bell pepper
-  - quantity: ½
+  - quantity: 1/2
     label: spicy pepper (optional)
   - quantity: 1
     unit: tbsp

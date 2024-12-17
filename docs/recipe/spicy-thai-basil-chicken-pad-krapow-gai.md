@@ -1,22 +1,22 @@
 ---
-title: 'Spicy Thai Basil Chicken (Pad Krapow Gai)'
-author: 'John Mitzewich'
-authorUrl: 'https://www.allrecipes.com/recipe/257938/spicy-thai-basil-chicken-pad-krapow-gai/?print'
-image: 'spicy-thai-basil-chicken-pad-krapow-gai.webp'
+title: "Spicy Thai Basil Chicken (Pad Krapow Gai)"
+author: "John Mitzewich"
+authorUrl: "https://www.allrecipes.com/recipe/257938/spicy-thai-basil-chicken-pad-krapow-gai/?print"
+image: "spicy-thai-basil-chicken-pad-krapow-gai.webp"
 category:
   - Thai
 tag:
   - main
   - basil
   - chicken
-excerpt: 'A classic Thai dish with spectacular taste. Thai basil flavored glazed chicken with a side of rice.'
+excerpt: "A classic Thai dish with spectacular taste. Thai basil flavored glazed chicken with a side of rice."
 servings: 2
 time:
   prep: 15 mins
   cook: 10 mins
   total: 25 mins
 ingredients:
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: chicken broth
   - quantity: 1
@@ -40,7 +40,7 @@ ingredients:
   - quantity: 1
     unit: lb
     label: skinless, boneless chicken thighs, coarsely chopped
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: sliced shallots
   - quantity: 4

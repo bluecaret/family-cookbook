@@ -1,15 +1,15 @@
 ---
-title: 'Carrot Cake (Diabetes Friendly)'
-author: 'EatingWell'
-authorUrl: 'https://www.eatingwell.com/recipe/262989/diabetic-carrot-cake/'
-image: 'carrot-cake-diabetes-friendly.webp'
+title: "Carrot Cake (Diabetes Friendly)"
+author: "EatingWell"
+authorUrl: "https://www.eatingwell.com/recipe/262989/diabetic-carrot-cake/"
+image: "carrot-cake-diabetes-friendly.webp"
 category:
   - American
 tag:
   - cake
   - carrot
   - dessert
-excerpt: 'With this luscious take on an all-time favorite, you can fit this low-added sugar cake into your eating pattern.'
+excerpt: "With this luscious take on an all-time favorite, you can fit this low-added sugar cake into your eating pattern."
 servings: 16
 time:
   prep: 45 mins
@@ -18,7 +18,7 @@ time:
 ingredients:
   - heading: Cake
     ingredients:
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: cups
         label: all-purpose flour
       - quantity: 2/3
@@ -30,10 +30,10 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: pumpkin pie spice
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: baking soda
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: salt
       - quantity: 3
@@ -44,13 +44,13 @@ ingredients:
         label: carrot (coarsely shredded)
       - quantity: 4
         label: eggs
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: granulated sugar
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: packed brown sugar
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: canola oil
   - heading: Frosting
@@ -58,13 +58,13 @@ ingredients:
       - quantity: 2
         unit: oz
         label: reduced-fat cream cheese
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: vanilla
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: powdered sugar
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: cups
         label: frozen light whipped dessert topping (thawed)
 ---
@@ -72,7 +72,7 @@ ingredients:
 ## Steps
 
 1. Preheat oven to 350 degrees F.
-2. Grease and lightly flour two 8x1½ or 9x1½ inch round cake pans; line bottom of pans with waxed paper or parchment paper. Grease and lightly flour the waxed paper or parchment paper and the sides of the pans. Set aside.
+2. Grease and lightly flour two 8x1-1/2 or 9x1-1/2 inch round cake pans; line bottom of pans with waxed paper or parchment paper. Grease and lightly flour the waxed paper or parchment paper and the sides of the pans. Set aside.
 3. In a large bowl, stir together flour, flax seed meal, baking powder, pumpkin pie spice, baking soda and salt; set aside.
 4. In another large bowl, combine finely shredded carrot, eggs, granulated sugar, brown sugar and oil.
 5. Add egg mixture all at once to flour mixture. Stir until combined.

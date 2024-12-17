@@ -1,8 +1,8 @@
 ---
-title: 'Tortilla Soup'
-author: 'Cook This Not That (page 118)'
-authorUrl: 'https://www.eatthis.com/tortilla-soup/'
-image: 'tortilla-soup.webp'
+title: "Tortilla Soup"
+author: "Cook This Not That (page 118)"
+authorUrl: "https://www.eatthis.com/tortilla-soup/"
+image: "tortilla-soup.webp"
 category:
   - Mexican
 tag:
@@ -29,7 +29,7 @@ ingredients:
   - quantity: 6
     unit: cups
     label: chicken broth
-  - quantity: ¾
+  - quantity: 3/4
     unit: lb
     label: boneless, skinless chicken breasts
   - label: salt and pepper to taste
@@ -37,7 +37,7 @@ ingredients:
     label: corn tortillas, cut into strips
   - label: Juice of 2 limes
   - label: Hot sauce
-  - quantity: ½
+  - quantity: 1/2
     label: avocado, cut into cubes
   - label: onion, radishes, cilantro optional
 ---

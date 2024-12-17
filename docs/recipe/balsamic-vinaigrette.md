@@ -9,7 +9,7 @@ tag:
   - salad
   - side
   - dressing
-excerpt: 'Slightly sweet, tangy balsamic vinaigrette is versatile as can be. As a dressing for salad, drizzled on roasted vegetables, or in chicken wraps.'
+excerpt: "Slightly sweet, tangy balsamic vinaigrette is versatile as can be. As a dressing for salad, drizzled on roasted vegetables, or in chicken wraps."
 time:
   prep: 5 mins
   total: 5 mins
@@ -20,19 +20,19 @@ ingredients:
   - quantity: 1
     unit: tbsp
     label: dijon mustard
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground black pepper
   - quantity: 1
     unit: large
     label: garlic clove minced
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: balsamic vinegar
-  - quantity: ¾
+  - quantity: 3/4
     unit: cup
     label: extra virgin olive oil
 ---

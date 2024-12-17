@@ -23,25 +23,25 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: black pepper
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: cayenne pepper
       - quantity: 1
         unit: tsp
         label: ground cumin
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: garlic powder
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: dried oregano
       - quantity: 2
         unit: fillets
         label: tilapia (or other white fish)
-      - quantity: ½
+      - quantity: 1/2
         label: lime
   - heading: Salsa
     ingredients:

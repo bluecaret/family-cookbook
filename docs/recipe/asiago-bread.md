@@ -1,40 +1,40 @@
 ---
-title: 'Asiago Bread'
-author: 'Food.com'
-authorUrl: 'https://www.food.com/recipe/asiago-cheese-bread-excellent-261935'
-image: 'asiago-bread.webp'
+title: "Asiago Bread"
+author: "Food.com"
+authorUrl: "https://www.food.com/recipe/asiago-cheese-bread-excellent-261935"
+image: "asiago-bread.webp"
 category:
   - American
 tag:
   - side
   - bread
   - asiago
-excerpt: 'A baguette with asiago cheese.'
+excerpt: "A baguette with asiago cheese."
 time:
   total: 3 hours 20 mins
 ingredients:
-  - quantity: 3¾
+  - quantity: 3-3/4
     unit: cups
     label: flour
   - quantity: 1
     unit: packet
     label: dry yeast
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tsp
     label: salt
   - quantity: 1
     unit: tsp
     label: sugar
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: black pepper
-  - quantity: 1¼
+  - quantity: 1-1/4
     unit: cups
     label: milk
   - quantity: 2
     unit: tbsp
     label: butter, cut up
-  - quantity: 1¼
+  - quantity: 1-1/4
     unit: cups
     label: asiago cheese, shredded
   - quantity: 1

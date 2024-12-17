@@ -1,15 +1,15 @@
 ---
-title: 'Whole Wheat Sandwich Bread'
-author: 'ChainBaker'
-authorUrl: 'https://www.chainbaker.com/wholegrain-loaf/'
-image: 'whole-wheat-sandwich-bread.jpg'
+title: "Whole Wheat Sandwich Bread"
+author: "ChainBaker"
+authorUrl: "https://www.chainbaker.com/wholegrain-loaf/"
+image: "whole-wheat-sandwich-bread.jpg"
 category:
   - American
 tag:
   - side
   - bread
   - whole wheat
-excerpt: 'This 100% Whole Wheat No-Knead Sandwich Loaf is a very soft, springy, and flavorful loaf that will stay soft for days.'
+excerpt: "This 100% Whole Wheat No-Knead Sandwich Loaf is a very soft, springy, and flavorful loaf that will stay soft for days."
 ingredients:
   - heading: Scald
     ingredients:
@@ -60,7 +60,7 @@ ingredients:
 7. Cold ferment (leave in fridge, covered) for 12-24 hours. _See notes._
 8. Grease a baking tin (with butter)
 9. Shape the dough, and place in tin.
-10. Proof, covered with plastic wrap, for 2-2½ hours.
+10. Proof, covered with plastic wrap, for 2 to 2-1/2 hours.
 
 ### Prepare and bake
 

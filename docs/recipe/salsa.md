@@ -8,7 +8,7 @@ tag:
   - side
   - tomato
   - spicy
-excerpt: 'Fresh homemade salsa with a mild kick.'
+excerpt: "Fresh homemade salsa with a mild kick."
 time:
   prep: 10 mins
   total: 10 mins
@@ -19,7 +19,7 @@ ingredients:
   - quantity: 1
     unit: small bundle
     label: green onion
-  - quantity: ½
+  - quantity: 1/2
     unit: med
     label: sweet onion
   - quantity: 3-6

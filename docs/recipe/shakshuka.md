@@ -1,8 +1,8 @@
 ---
-title: 'Shakshuka'
-author: 'Lisa Bryan at Downshiftology'
-authorUrl: 'https://downshiftology.com/recipes/shakshuka/#wprm-recipe-container-34363'
-image: 'shakshuka.webp'
+title: "Shakshuka"
+author: "Lisa Bryan at Downshiftology"
+authorUrl: "https://downshiftology.com/recipes/shakshuka/#wprm-recipe-container-34363"
+image: "shakshuka.webp"
 category:
   - Mediterranean
   - Middle Eastern
@@ -10,7 +10,7 @@ tag:
   - main
   - egg
   - tomato
-excerpt: 'Shakshuka is a North African and Middle Eastern meal of poached eggs in a simmering tomato sauce with spices.'
+excerpt: "Shakshuka is a North African and Middle Eastern meal of poached eggs in a simmering tomato sauce with spices."
 noRecipe:
   - In skillet, heat oil on medium.
   - Add red pepper, onion. Cook 5 minutes.
@@ -28,10 +28,10 @@ ingredients:
   - quantity: 1
     unit: tbsp
     label: olive oil
-  - quantity: ½
+  - quantity: 1/2
     unit: medium
     label: onion, diced
-  - quantity: ½
+  - quantity: 1/2
     label: red bell pepper, diced
   - quantity: 2
     unit: cloves
@@ -39,10 +39,10 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: paprika
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: cumin
-  - quantity: ⅛
+  - quantity: 1/8
     unit: tsp
     label: chili powder (or pepper flakes)
   - quantity: 16

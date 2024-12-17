@@ -1,13 +1,13 @@
 ---
-title: 'Brownies with Whole Wheat and Flax'
-author: 'Gabby at The Cookie Dough Diaries'
-authorUrl: 'https://thecookiedoughdiaries.com/small-batch-brownies/#recipe'
-image: 'brownies-with-whole-wheat-flour.jpg'
+title: "Brownies with Whole Wheat and Flax"
+author: "Gabby at The Cookie Dough Diaries"
+authorUrl: "https://thecookiedoughdiaries.com/small-batch-brownies/#recipe"
+image: "brownies-with-whole-wheat-flour.jpg"
 category:
   - American
 tag:
   - dessert
-excerpt: 'These small batch brownies are gooey, fudgy, and have a perfect crinkle top.'
+excerpt: "These small batch brownies are gooey, fudgy, and have a perfect crinkle top."
 time:
   prep: 10 mins
   cook: 27 mins
@@ -18,13 +18,13 @@ ingredients:
     label: butter, melted
   - quantity: 8
     unit: tbsp
-    label: granulated sugar (½c)
+    label: granulated sugar (1/2c)
   - quantity: 6
     unit: tbsp
     label: brown sugar
   - quantity: 1
     label: egg
-  - quantity: ½
+  - quantity: 1/2
     unit: tbsp
     label: vanilla (optional)
   - quantity: 5
@@ -33,10 +33,10 @@ ingredients:
   - quantity: 6
     unit: tbsp
     label: unsweetened cocoa powder
-  - quantity: ⅛
+  - quantity: 1/8
     unit: tsp
     label: salt
-  - quantity: ⅓
+  - quantity: 1/3
     unit: cup
     label: chocolate chips (optional)
 ---

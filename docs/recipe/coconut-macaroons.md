@@ -17,19 +17,19 @@ ingredients:
   - quantity: 1
     unit: large
     label: egg white
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: sugar
   - quantity: 1
     unit: cup
     label: unsweetened shredded coconut
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: pure vanilla extract (optional)
-  - quantity: ⅛
+  - quantity: 1/8
     unit: tsp
     label: salt
-  - quantity: ⅔
+  - quantity: 2/3
     unit: cup
     label: chocolate chips (optional)
 ---

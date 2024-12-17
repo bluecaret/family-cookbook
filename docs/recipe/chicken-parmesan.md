@@ -1,22 +1,22 @@
 ---
-title: 'Chicken Parmesan'
-author: 'Cook This Not That (page 276)'
-authorUrl: 'https://www.eatthis.com/healthy-chicken-parmesan-recipe/'
-image: 'chicken-parmesan.webp'
+title: "Chicken Parmesan"
+author: "Cook This Not That (page 276)"
+authorUrl: "https://www.eatthis.com/healthy-chicken-parmesan-recipe/"
+image: "chicken-parmesan.webp"
 category:
   - Italian
 tag:
   - main
   - chicken
   - parmesan
-excerpt: 'A healthy version of the Italian-American staple.'
+excerpt: "A healthy version of the Italian-American staple."
 ingredients:
   - quantity: 4
     label: boneless, skinless chicken breast halves
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: black pepper
   - quantity: 2
@@ -27,7 +27,7 @@ ingredients:
   - quantity: 2
     unit: tbsp
     label: grated parmesan
-  - quantity: ½
+  - quantity: 1/2
     unit: tbsp
     label: dried italian seasoning
   - quantity: 1

@@ -1,7 +1,7 @@
 ---
-title: 'Honey-Mustard Salmon with Roasted Asparagus'
-author: 'Cook This, Not That: Kitchen Survival Guide (page 232)'
-image: 'honey-mustard-salmon-with-roasted-asparagus.jpg'
+title: "Honey-Mustard Salmon with Roasted Asparagus"
+author: "Cook This, Not That: Kitchen Survival Guide (page 232)"
+image: "honey-mustard-salmon-with-roasted-asparagus.jpg"
 category:
   - American
 tag:
@@ -9,7 +9,7 @@ tag:
   - side
   - salmon
   - asparagus
-excerpt: 'Salmon in a honey and brown mustard sauce served with roasted asparagus with parmesan cheese.'
+excerpt: "Salmon in a honey and brown mustard sauce served with roasted asparagus with parmesan cheese."
 servings: 4
 time:
   total: 15 mins
@@ -36,7 +36,7 @@ ingredients:
       - quantity: 1
         unit: tbsp
         label: soy sauce
-      - quantity: ½
+      - quantity: 1/2
         unit: tbsp
         label: olive oil
       - label: salt and pepper to taste

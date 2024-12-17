@@ -1,15 +1,15 @@
 ---
-title: 'Egg Drop Soup (Kakitamajiru)'
-author: 'Just One Cookbook'
-authorUrl: 'https://www.justonecookbook.com/kakitamajiru-japanese-egg-drop-soup/'
-image: 'egg-drop-soup.jpg'
+title: "Egg Drop Soup (Kakitamajiru)"
+author: "Just One Cookbook"
+authorUrl: "https://www.justonecookbook.com/kakitamajiru-japanese-egg-drop-soup/"
+image: "egg-drop-soup.jpg"
 category:
   - Japanese
 tag:
   - side
   - soup
   - egg
-excerpt: 'Made with dashi broth and fluffy egg ribbons, it is everything you crave in a bowl of soup: delicate, flavorful, and restorative.'
+excerpt: "Made with dashi broth and fluffy egg ribbons, it is everything you crave in a bowl of soup: delicate, flavorful, and restorative."
 noRecipe:
   - Beat egg in bowl.
   - Heat dashi, soy sauce, optionally mirin, in pan.
@@ -37,7 +37,7 @@ ingredients:
   - quantity: 2
     unit: tsp
     label: sake
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
   - quantity: 1

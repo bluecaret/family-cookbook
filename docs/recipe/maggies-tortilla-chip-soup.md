@@ -26,13 +26,13 @@ ingredients:
   - quantity: 3.8
     unit: oz
     label: can green chilies, chopped, including liquid
-  - quantity: 2½
+  - quantity: 2-1/2
     unit: cups
     label: vegetable stock
-  - quantity: ¾
+  - quantity: 3/4
     unit: cup
     label: corn (fresh or frozen)
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: fresh cilantro, chopped
   - quantity: 19
@@ -41,16 +41,16 @@ ingredients:
   - quantity: 5.5
     unit: oz
     label: can tomato paste
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: chili powder
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: dried basil
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: black pepper
   - label: tortilla chips

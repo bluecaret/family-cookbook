@@ -1,14 +1,14 @@
 ---
 title: 'No-Knead "Dutch Oven" Bread'
-author: 'Artisan Bread With Steve'
-authorUrl: 'https://www.youtube.com/watch?v=PQtsvPlE7w8'
-image: 'no-knead-dutch-oven-bread.jpg'
+author: "Artisan Bread With Steve"
+authorUrl: "https://www.youtube.com/watch?v=PQtsvPlE7w8"
+image: "no-knead-dutch-oven-bread.jpg"
 category:
   - American
 tag:
   - side
   - bread
-excerpt: 'A simple sandwich bread that requires no kneading or a dutch oven, but cooks like you used one.'
+excerpt: "A simple sandwich bread that requires no kneading or a dutch oven, but cooks like you used one."
 servings: 2
 time:
   prep: 5 mins
@@ -19,13 +19,13 @@ ingredients:
   - quantity: 14
     unit: oz
     label: cool water
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tsp
     label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: yeast
-  - quantity: 3½
+  - quantity: 3-1/2
     unit: cups
     label: flour
 ---

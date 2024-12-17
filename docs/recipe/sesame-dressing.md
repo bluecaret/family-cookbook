@@ -1,14 +1,14 @@
 ---
-title: 'Sesame Dressing'
-author: 'Just One Cookbook'
-authorUrl: 'https://www.justonecookbook.com/sesame-dressing/'
+title: "Sesame Dressing"
+author: "Just One Cookbook"
+authorUrl: "https://www.justonecookbook.com/sesame-dressing/"
 image: sesame-dressing.jpg
 category:
   - Japanese
 tag:
   - side
   - salad
-excerpt: 'Creamy and nutty, this homemade Japanese Sesame Dressing is made from ground roasted sesame seeds, mayo, rice vinegar, and soy sauce.'
+excerpt: "Creamy and nutty, this homemade Japanese Sesame Dressing is made from ground roasted sesame seeds, mayo, rice vinegar, and soy sauce."
 noRecipe:
   - Fry sesame seeds on low heat.
   - Grind seeds in pestle and mortar till smooth.
@@ -28,16 +28,16 @@ ingredients:
   - quantity: 2
     unit: tbsp
     label: rice vinegar
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tbsp
     label: soy sauce
   - quantity: 1
     unit: tsp
     label: sugar
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: mirin
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: sesame oil
 ---

@@ -1,6 +1,6 @@
 ---
-title: 'Chipotle Chicken Tacos with Cabbage Slaw & Lime Crema'
-image: 'chipotle-chicken-tacos-w-cabbage-slaw-lime-crema.png'
+title: "Chipotle Chicken Tacos with Cabbage Slaw & Lime Crema"
+image: "chipotle-chicken-tacos-w-cabbage-slaw-lime-crema.png"
 category:
   - Mexican
 tag:
@@ -9,7 +9,7 @@ tag:
   - lime
   - chicken
   - chipotle
-excerpt: 'Chipotle chicken tacos with a side of slaw and a refreshing lime cream sauce.'
+excerpt: "Chipotle chicken tacos with a side of slaw and a refreshing lime cream sauce."
 servings: 2
 time:
   prep: 5 mins
@@ -37,18 +37,18 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: granulated sugar
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: salt
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: ground black pepper
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: cups
         label: shredded coleslaw mix
   - heading: Lime Crema
     ingredients:
-      - quantity: ¾
+      - quantity: 3/4
         unit: cup
         label: sour cream
       - quantity: 2
@@ -60,10 +60,10 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: grated lime zest
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: salt
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: ground cumin
 ---

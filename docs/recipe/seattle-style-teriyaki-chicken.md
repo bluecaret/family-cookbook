@@ -1,15 +1,15 @@
 ---
-title: 'Seattle-style Teriyaki Chicken'
-author: 'Cheffzillas Kitchen'
-authorUrl: 'https://jeffskitchen.net/2021/05/04/seattle-style-teriyaki-chicken/'
-image: 'seattle-style-teriyaki-chicken.webp'
+title: "Seattle-style Teriyaki Chicken"
+author: "Cheffzillas Kitchen"
+authorUrl: "https://jeffskitchen.net/2021/05/04/seattle-style-teriyaki-chicken/"
+image: "seattle-style-teriyaki-chicken.webp"
 category:
   - Japanese
 tag:
   - main
   - side
   - chicken
-excerpt: 'Teriyaki chicken in the style of the numerous Teriyaki restaurants in the Seattle area. Styrofoam-container optional.'
+excerpt: "Teriyaki chicken in the style of the numerous Teriyaki restaurants in the Seattle area. Styrofoam-container optional."
 time:
   prep: 2 hours
   rest: 10 mins
@@ -25,16 +25,16 @@ ingredients:
   - label: toasted sesame seed (garnish)
   - heading: Teriyaki Sauce
     ingredients:
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: soy sauce
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: water
-      - quantity: ⅛
+      - quantity: 1/8
         unit: cup
         label: rice wine vinegar
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: brown sugar
       - quantity: 2-3

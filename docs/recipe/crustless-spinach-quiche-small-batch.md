@@ -1,8 +1,8 @@
 ---
-title: 'Crustless Spinach Quiche (Small Batch)'
-author: 'One Dish Kitchen'
-authorUrl: 'https://onedishkitchen.com/crustless-spinach-quiche-for-one/#wprm-recipe-container-25342'
-image: 'crustless-spinach-quiche-small-batch.jpg'
+title: "Crustless Spinach Quiche (Small Batch)"
+author: "One Dish Kitchen"
+authorUrl: "https://onedishkitchen.com/crustless-spinach-quiche-for-one/#wprm-recipe-container-25342"
+image: "crustless-spinach-quiche-small-batch.jpg"
 category:
   - Mediterranean
 tag:
@@ -10,7 +10,7 @@ tag:
   - eggs
   - spinach
   - cheese
-excerpt: 'Make a quick and easy single-serving crustless spinach quiche in 30 minutes! This healthy recipe is perfect for breakfast, lunch, or a snack.'
+excerpt: "Make a quick and easy single-serving crustless spinach quiche in 30 minutes! This healthy recipe is perfect for breakfast, lunch, or a snack."
 servings: 2
 time:
   prep: 5 mins
@@ -38,10 +38,10 @@ ingredients:
   - quantity: 6
     unit: tbsp
     label: heavy cream (or milk)
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: black pepper
   - quantity: 1

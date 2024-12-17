@@ -1,15 +1,15 @@
 ---
-title: 'Small Batch Muffins'
-author: 'Grace & Good Eats'
-authorUrl: 'https://www.graceandgoodeats.com/small-batch-one-bowl-perfect-muffins/#recipe'
-image: 'small-batch-muffins.webp'
+title: "Small Batch Muffins"
+author: "Grace & Good Eats"
+authorUrl: "https://www.graceandgoodeats.com/small-batch-one-bowl-perfect-muffins/#recipe"
+image: "small-batch-muffins.webp"
 category:
   - American
 tag:
   - side
   - dessert
   - small batch
-excerpt: 'This Plain Muffin Recipe can be enjoyed as is, or you can add your favorite mix-ins! Perfect for a weekend breakfast!'
+excerpt: "This Plain Muffin Recipe can be enjoyed as is, or you can add your favorite mix-ins! Perfect for a weekend breakfast!"
 servings: 6
 time:
   prep: 5 mins
@@ -19,21 +19,21 @@ ingredients:
   - quantity: 1
     unit: cup
     label: all-purpose flour
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: granulated sugar
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tsp
     label: baking powder
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
   - quantity: 1
     label: egg
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: oil
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: milk
 ---

@@ -1,14 +1,14 @@
 ---
-title: 'Butter Chicken'
-author: 'Nagi @ RecipeTin Eats'
-authorUrl: 'https://www.recipetineats.com/butter-chicken/'
-image: 'butter-chicken.webp'
+title: "Butter Chicken"
+author: "Nagi @ RecipeTin Eats"
+authorUrl: "https://www.recipetineats.com/butter-chicken/"
+image: "butter-chicken.webp"
 category:
   - Indian
 tag:
   - main
   - curry
-excerpt: 'Butter Chicken (Murgh Makhani) is one of the most popular curries in the world and yet happens to be one of the easiest!'
+excerpt: "Butter Chicken (Murgh Makhani) is one of the most popular curries in the world and yet happens to be one of the easiest!"
 servings: 4
 time:
   prep: 10 mins
@@ -17,7 +17,7 @@ time:
 ingredients:
   - heading: Marinade
     ingredients:
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: plain yogurt (full fat)
       - quantity: 1
@@ -29,7 +29,7 @@ ingredients:
       - quantity: 2
         unit: tsp
         label: garam masala
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: chili powder or cayenne pepper
       - quantity: 1
@@ -41,7 +41,7 @@ ingredients:
       - quantity: 2
         unit: cloves
         label: garlic
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: lbs
         label: chicken thigh fillets, cut to bite size
   - heading: Curry
@@ -58,7 +58,7 @@ ingredients:
       - quantity: 1
         unit: tbsp
         label: sugar
-      - quantity: 1¼
+      - quantity: 1-1/4
         unit: tsp
         label: salt
   - heading: To serve choose

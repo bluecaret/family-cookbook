@@ -1,13 +1,13 @@
 ---
-title: 'Chicken Curry Salad Sandwich'
-author: 'Cook This Not That (page 146)'
-authorUrl: 'https://www.eatthis.com/chicken-salad-sandwich-recipe/'
-image: 'chicken-salad-sandwich-curry-raisins.webp'
+title: "Chicken Curry Salad Sandwich"
+author: "Cook This Not That (page 146)"
+authorUrl: "https://www.eatthis.com/chicken-salad-sandwich-recipe/"
+image: "chicken-salad-sandwich-curry-raisins.webp"
 category:
   - American
 tag:
   - side
-excerpt: 'Healthy chicken salad with curry powder and raisins on a sandwich.'
+excerpt: "Healthy chicken salad with curry powder and raisins on a sandwich."
 ingredients:
   - quantity: 3
     unit: tbsp
@@ -18,14 +18,14 @@ ingredients:
   - quantity: 2
     unit: stalks
     label: celery, thinly sliced
-  - quantity: ½
+  - quantity: 1/2
     label: onion, diced
   - quantity: 1
     label: carrot, shredded
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: curry powder
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: olive oil mayonnaise
   - label: salt and pepper to taste

@@ -1,14 +1,14 @@
 ---
-title: 'Magic Blackening Rub'
-author: 'Cook This Not That: Skinny Comfort Foods (page 320)'
-image: 'magic-blackening-rub.jpg'
+title: "Magic Blackening Rub"
+author: "Cook This Not That: Skinny Comfort Foods (page 320)"
+image: "magic-blackening-rub.jpg"
 category:
   - American
 tag:
   - seasoning
   - chicken
   - fish
-excerpt: 'Spicy seasoning that makes a dark savory crust on meats.'
+excerpt: "Spicy seasoning that makes a dark savory crust on meats."
 ingredients:
   - quantity: 1
     unit: tbsp
@@ -31,7 +31,7 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: dried oregano (or thyme)
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: cayenne pepper
 ---

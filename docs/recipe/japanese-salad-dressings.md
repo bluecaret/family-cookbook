@@ -1,5 +1,5 @@
 ---
-title: 'Japanese Salad Dressings'
+title: "Japanese Salad Dressings"
 author: Just One Cookbook
 authorUrl: https://www.justonecookbook.com/japanese-salad-dressings/
 image: japanese-salad-dressings.jpg
@@ -8,72 +8,72 @@ category:
 tag:
   - side
   - salad
-excerpt: 'Delicious, easy to make salad dressings ready in 5 minutes: Italian Dressing, French Dressing, Shoyu Dressing, Chuka Dressing.'
+excerpt: "Delicious, easy to make salad dressings ready in 5 minutes: Italian Dressing, French Dressing, Shoyu Dressing, Chuka Dressing."
 time:
   prep: 5 mins
   total: 5 mins
 ingredients:
   - heading: Italian Dressing
     ingredients:
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: extra virgin olive oil
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: white wine vinegar
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: sugar
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: ground black pepper
       - quantity: 1
         unit: clove
         label: garlic
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: dried basil
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: dried parsley
   - heading: French Vinaigrette Dressing
     ingredients:
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: neutral oil
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: white wine vinegar
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: sugar
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: ground black pepper
   - heading: Shoyu Dressing
     ingredients:
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: neutral oil
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: rice vinegar (unseasoned)
       - quantity: 2
         unit: tbsp
         label: soy sauce
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: sugar
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: ground black pepper
   - heading: Chuka Dressing
@@ -90,13 +90,13 @@ ingredients:
       - quantity: 2
         unit: tbsp
         label: soy sauce
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: sugar
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: ground black pepper
       - quantity: 1
@@ -112,19 +112,19 @@ You can whisk all the ingredients in a mixing bowl, but I highly recommend getti
 
 ### Italian Dressing
 
-1. Combine all the ingredients in a mason jar: ½ cup extra virgin olive oil, ¼ cup white wine vinegar, ½ tsp sugar, 1 tsp Diamond Crystal kosher salt, ⅛ tsp freshly ground black pepper, 1 clove garlic (crushed or minced), ¼ tsp dried basil, and ¼ tsp dried parsley. Shake really well until everything has emulsified.
+1. Combine all the ingredients in a mason jar: 1/2 cup extra virgin olive oil, 1/4 cup white wine vinegar, 1/2 tsp sugar, 1 tsp Diamond Crystal kosher salt, 1/8 tsp freshly ground black pepper, 1 clove garlic (crushed or minced), 1/4 tsp dried basil, and 1/4 tsp dried parsley. Shake really well until everything has emulsified.
 
 ### French Vinaigrette Dressing
 
-1. Combine all the ingredients in a mason jar: ½ cup neutral oil, ¼ cup white wine vinegar, 1 tsp Diamond Crystal kosher salt, ⅛ tsp freshly ground black pepper, and ½ tsp sugar. Shake really well until everything has emulsified.
+1. Combine all the ingredients in a mason jar: 1/2 cup neutral oil, 1/4 cup white wine vinegar, 1 tsp Diamond Crystal kosher salt, 1/8 tsp freshly ground black pepper, and 1/2 tsp sugar. Shake really well until everything has emulsified.
 
 ### Shoyu Dressing (Soy sauce dressing)
 
-1. Combine all the ingredients in a mason jar: ½ cup neutral oil, ¼ cup rice vinegar (unseasoned), 2 Tbsp soy sauce, 1 tsp Diamond Crystal kosher salt, ⅛ tsp freshly ground black pepper, and ½ tsp sugar. Shake really well until everything has emulsified.
+1. Combine all the ingredients in a mason jar: 1/2 cup neutral oil, 1/4 cup rice vinegar (unseasoned), 2 Tbsp soy sauce, 1 tsp Diamond Crystal kosher salt, 1/8 tsp freshly ground black pepper, and 1/2 tsp sugar. Shake really well until everything has emulsified.
 
 ### Chuka Dessing (Chinese-style dressing)
 
-1. Combine all the ingredients in a mason jar: 6 Tbsp neutral oil, 2 Tbsp toasted sesame oil, 4 Tbsp rice vinegar (unseasoned), 2 Tbsp soy sauce, 1 tsp Diamond Crystal kosher salt, ⅛ tsp freshly ground black pepper, ½ tsp sugar, and1 tsp toasted white sesame seeds. Shake really well until everything has emulsified.
+1. Combine all the ingredients in a mason jar: 6 Tbsp neutral oil, 2 Tbsp toasted sesame oil, 4 Tbsp rice vinegar (unseasoned), 2 Tbsp soy sauce, 1 tsp Diamond Crystal kosher salt, 1/8 tsp freshly ground black pepper, 1/2 tsp sugar, and1 tsp toasted white sesame seeds. Shake really well until everything has emulsified.
 
 ### Serve and store
 

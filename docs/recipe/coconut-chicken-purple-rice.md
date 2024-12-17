@@ -1,6 +1,6 @@
 ---
-title: 'Coconut chicken with Purple rice'
-author: 'CardioMetabolic Food Plan (pg 12)'
+title: "Coconut chicken with Purple rice"
+author: "CardioMetabolic Food Plan (pg 12)"
 image: coconut-chicken-with-purple-rice.jpg
 category:
   - Mediterranean
@@ -10,7 +10,7 @@ tag:
   - purple rice
   - rice
   - curry
-excerpt: 'Chicken breast with a curry-like sauce over a bed of purple rice.'
+excerpt: "Chicken breast with a curry-like sauce over a bed of purple rice."
 noRecipe:
   - Cook purple rice.
   - Heat oil in med heat.
@@ -24,36 +24,36 @@ servings: 3
 time:
   total: 45 mins
 ingredients:
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: cups
     label: water
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: purple rice
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
   - quantity: 1
     unit: tbsp
     label: coconut oil
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: onion, chopped
   - quantity: 1
     unit: clove
     label: garlic, minced
-  - quantity: ½
+  - quantity: 1/2
     unit: can
     label: diced tomatoes, no-salt added (7oz)
-  - quantity: ½
+  - quantity: 1/2
     unit: lb
     label: chicken breast, boneless & skinless, cut in strips
-  - quantity: ½
+  - quantity: 1/2
     unit: tbsp
     label: curry powder
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
-    label: canned coconut milk (combined with ¼ cup water)
+    label: canned coconut milk (combined with 1/4 cup water)
   - quantity: 1
     unit: pinch
     label: ground cinnamon
@@ -73,5 +73,5 @@ ingredients:
 5. Stir in coconut milk (mixed with water) and cook for 5 more minutes.
 6. Serve immediately with rice, topped with a sprinkle of cinnamon and garnished with basil.
 
-**Tips:** Alternatively, instead of coconut milk mixed with water, you could use ¼ cup
+**Tips:** Alternatively, instead of coconut milk mixed with water, you could use 1/4 cup
 light (canned) coconut milk.

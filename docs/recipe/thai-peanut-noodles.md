@@ -1,5 +1,5 @@
 ---
-title: 'Thai Peanut Noodles'
+title: "Thai Peanut Noodles"
 category:
   - Thai
 tag:
@@ -7,7 +7,7 @@ tag:
   - main
   - peanut
   - noodles
-excerpt: 'Soba noodles with a thai peanut sauce.'
+excerpt: "Soba noodles with a thai peanut sauce."
 ingredients:
   - quantity: 2
     unit: packs
@@ -28,10 +28,10 @@ ingredients:
     label: green onions, thinly sliced
   - heading: Sauce
     ingredients:
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: peanut butter
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: soy sauce
       - quantity: 3

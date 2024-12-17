@@ -1,39 +1,39 @@
 ---
-title: 'Small Batch 30 Minute Rolls'
-author: 'Leigh Anne Wilkes @ Your Homebased Mom'
-authorUrl: 'https://www.yourhomebasedmom.com/small-batch-30-minute-rolls/'
-image: 'small-batch-30-minute-rolls.jpg'
+title: "Small Batch 30 Minute Rolls"
+author: "Leigh Anne Wilkes @ Your Homebased Mom"
+authorUrl: "https://www.yourhomebasedmom.com/small-batch-30-minute-rolls/"
+image: "small-batch-30-minute-rolls.jpg"
 category:
   - American
 tag:
   - side
   - bread
-excerpt: 'These Small Batch 30 Minute Rolls are quick, easy, delicious and the perfect amount for 2-4 people.'
+excerpt: "These Small Batch 30 Minute Rolls are quick, easy, delicious and the perfect amount for 2-4 people."
 servings: 6
 time:
   prep: 15 mins
   cook: 15 mins
   total: 30 mins
 ingredients:
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: warm water (plus 1 tbsp)
   - quantity: 3
     unit: tsp
     label: dry active yeast
-  - quantity: 2¼
+  - quantity: 2-1/4
     unit: tbsp
     label: vegetable oil
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: cup
     label: all purpose flour (plus 3 tbsp)
   - quantity: 6
     unit: tsp
     label: sugar
-  - quantity: ¾
+  - quantity: 3/4
     unit: tsp
     label: salt
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tbsp
     label: egg, beaten
 ---

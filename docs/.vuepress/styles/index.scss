@@ -365,11 +365,11 @@ h2 a, h3 a {
   padding: 0;
   .quantityWrapper {
     display: inline-block;
-    padding: .2em .1em .1em .4em;
+    padding: .1em .1em .1em .4em;
     background-color: var(--dark-700);
     border-radius: .4em;
     margin-right: 0.5em;
-  font-family: "Azeret Mono", monospace;
+    // font-family: "Azeret Mono", monospace;
   }
   .quantity {
     margin-right: 0.3em;

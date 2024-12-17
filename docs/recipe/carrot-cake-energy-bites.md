@@ -1,15 +1,15 @@
 ---
-title: 'Carrot Cake Energy Bites'
-author: 'Beth Lipton at Eating Well'
-authorUrl: 'https://www.eatingwell.com/recipe/273188/carrot-cake-energy-bites/'
-image: 'carrot-cake-energy-bites.webp'
+title: "Carrot Cake Energy Bites"
+author: "Beth Lipton at Eating Well"
+authorUrl: "https://www.eatingwell.com/recipe/273188/carrot-cake-energy-bites/"
+image: "carrot-cake-energy-bites.webp"
 category:
   - American
 tag:
   - side
   - snack
   - dessert
-excerpt: 'These no-cook energy bites keep well in the fridge or freezer and are easy to grab on the go for a healthy snack.'
+excerpt: "These no-cook energy bites keep well in the fridge or freezer and are easy to grab on the go for a healthy snack."
 noRecipe:
   - Combine dates, oats, nuts, chia seeds in food processor, pulse til combined and chopped.
   - Add carrots, vanilla, cinnamon, ginger, tumeric, salt, pepper. Process till paste forms.
@@ -22,13 +22,13 @@ ingredients:
   - quantity: 1
     unit: cup
     label: pitted dates
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: old-fashioned rolled oats
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: chopped peanuts
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: chia seeds
   - quantity: 2
@@ -37,16 +37,16 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: vanilla
-  - quantity: ¾
+  - quantity: 3/4
     unit: tsp
     label: ground cinnamon
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground ginger
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: ground turmeric
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
   - quantity: 1

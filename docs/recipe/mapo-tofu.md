@@ -1,14 +1,14 @@
 ---
-title: 'Mapo Tofu'
-author: 'Just One Cookbook'
-authorUrl: 'https://www.justonecookbook.com/mapo-tofu/'
-image: 'mapo-tofu.jpg'
+title: "Mapo Tofu"
+author: "Just One Cookbook"
+authorUrl: "https://www.justonecookbook.com/mapo-tofu/"
+image: "mapo-tofu.jpg"
 category:
   - Japanese
 tag:
   - main
   - tofu
-excerpt: 'Japanese-style Mapo Tofu (Mabo Dofu) is incredibly flavorful but much less spicy than the original Sichuan dish. Even children can enjoy this family-friendly recipe.'
+excerpt: "Japanese-style Mapo Tofu (Mabo Dofu) is incredibly flavorful but much less spicy than the original Sichuan dish. Even children can enjoy this family-friendly recipe."
 servings: 2
 time:
   prep: 10 mins
@@ -17,25 +17,25 @@ time:
 ingredients:
   - heading: Seasoning
     ingredients:
-      - quantity: 1¼
+      - quantity: 1-1/4
         unit: tbsp
         label: doubankiang (spicy chili bean paste)
-      - quantity: ½
+      - quantity: 1/2
         unit: tbsp
         label: oyster sauce
-      - quantity: ½
+      - quantity: 1/2
         unit: tbsp
         label: miso
-      - quantity: ¼
+      - quantity: 1/4
         unit: tbsp
         label: soy sauce
       - quantity: 1
         unit: tbsp
         label: mirin
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: toasted sesame oil
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: cornstarch
       - quantity: 2
@@ -46,7 +46,7 @@ ingredients:
       - quantity: 1
         unit: clove
         label: garlic
-      - quantity: ½
+      - quantity: 1/2
         unit: tbsp
         label: ginger
       - quantity: 1
@@ -54,10 +54,10 @@ ingredients:
       - quantity: 7
         unit: oz
         label: soft/silken tofu
-      - quantity: ½
+      - quantity: 1/2
         unit: tbsp
         label: neutral oil
-      - quantity: ¼
+      - quantity: 1/4
         unit: lb
         label: ground pork
 ---
@@ -66,7 +66,7 @@ ingredients:
 
 1. Combine all the seasonings in a bowl. Mix well together with a whisk.
 2. Finely mince 1 clove garlic. Prepare minced ginger. Cut green onions into small pieces.
-3. Drain tofu and cut into ¾ inch cubes
+3. Drain tofu and cut into 3/4 inch cubes
 4. Heat a wok or large fry pan on medium heat.
 5. When pan is hot, add oil.
 6. When oil is hot, add garlic and ginger and saute till fragrant.

@@ -11,7 +11,7 @@ tag:
   - turkey
   - chicken
   - fennel
-excerpt: 'Ground pork simply flavored with red pepper flakes, fennel seed and garlic! Perfect for adding to any recipe (especially Italian recipes) that call for sausage!'
+excerpt: "Ground pork simply flavored with red pepper flakes, fennel seed and garlic! Perfect for adding to any recipe (especially Italian recipes) that call for sausage!"
 noRecipe:
   - Combine ground pork, coarsely ground fennel seed, red pepper flakes, minced garlic clove, salt.
   - Refrigerate for 30 minutes.
@@ -25,10 +25,10 @@ ingredients:
   - quantity: 2
     unit: tsp
     label: salt
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: tsp
-    label: coarsely ground fennel seed plus ½ teaspoon whole seeds
-  - quantity: ½
+    label: coarsely ground fennel seed plus 1/2 teaspoon whole seeds
+  - quantity: 1/2
     unit: tbsp
     label: red pepper flakes
   - quantity: 1

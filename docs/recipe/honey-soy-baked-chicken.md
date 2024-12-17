@@ -1,14 +1,14 @@
 ---
-title: 'Honey Soy Baked Chicken Thighs'
-author: 'She Wears Many Hats'
-authorUrl: 'https://shewearsmanyhats.com/on-the-dark-side/#mv-creation-257-jtr'
+title: "Honey Soy Baked Chicken Thighs"
+author: "She Wears Many Hats"
+authorUrl: "https://shewearsmanyhats.com/on-the-dark-side/#mv-creation-257-jtr"
 image: honey-soy-baked-chicken.webp
 category:
   - American
 tag:
   - main
   - chicken
-excerpt: 'This super easy and delicious baked chicken thighs recipe with honey and soy will become a regular favorite in no time.'
+excerpt: "This super easy and delicious baked chicken thighs recipe with honey and soy will become a regular favorite in no time."
 servings: 4-6
 time:
   prep: 15 mins
@@ -27,10 +27,10 @@ ingredients:
   - quantity: 4
     unit: cloves
     label: garlic, minced
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground ginger
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground pepper
   - quantity: 3

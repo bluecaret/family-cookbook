@@ -1,7 +1,7 @@
 ---
-title: 'Asian Cabbage Salad'
-author: 'Just One Cookbook'
-authorUrl: 'https://www.justonecookbook.com/asian-cabbage-salad/'
+title: "Asian Cabbage Salad"
+author: "Just One Cookbook"
+authorUrl: "https://www.justonecookbook.com/asian-cabbage-salad/"
 image: asian-cabbage-salad.jpg
 category:
   - Japanese
@@ -21,7 +21,7 @@ time:
 ingredients:
   - heading: Miso Dressing
     ingredients:
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: tbsp
         label: miso
       - quantity: 3
@@ -41,24 +41,24 @@ ingredients:
       - quantity: 2
         unit: tbsp
         label: rice vinegar
-      - quantity: 1½
+      - quantity: 1-1/2
         unit: tbsp
         label: soy sauce
       - quantity: 1
         unit: tsp
         label: sugar
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: mirin
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: sesame oil
   - heading: Coleslaw
     ingredients:
-      - quantity: ⅛
+      - quantity: 1/8
         unit: head
         label: green cabbage
-      - quantity: ⅛
+      - quantity: 1/8
         unit: head
         label: red cabbage
       - quantity: 1
@@ -70,10 +70,10 @@ ingredients:
       - quantity: 5
         unit: sprigs
         label: cilantro (optional)
-      - quantity: ½
+      - quantity: 1/2
         unit: cup
         label: shelled edamame (optional)
-      - quantity: ⅛
+      - quantity: 1/8
         unit: cup
         label: peanuts (optional)
 ---
@@ -82,7 +82,7 @@ ingredients:
 
 ### Miso Dressing
 
-1. In a small mason jar, combine 1.5 Tbsp miso, 3 Tbsp neutral oil, and 1 Tbsp rice vinegar (unseasoned). If you are not using naturally sweet CRAFT MISO by Hikari Miso, add ½ tsp sugar per 3 Tbsp miso of a different type. Then, close the lid tightly and shake well until the miso is completely dissolved. Store in the refrigerator until ready to use.
+1. In a small mason jar, combine 1.5 Tbsp miso, 3 Tbsp neutral oil, and 1 Tbsp rice vinegar (unseasoned). If you are not using naturally sweet CRAFT MISO by Hikari Miso, add 1/2 tsp sugar per 3 Tbsp miso of a different type. Then, close the lid tightly and shake well until the miso is completely dissolved. Store in the refrigerator until ready to use.
 
 ### Sesame Dressing
 
@@ -95,7 +95,7 @@ ingredients:
 1. Discard the core of green and red cabbage. Thinly slice the cabbage or shred it using a cabbage slicer.
 2. Peel 1 carrots. Using a julienne peeler, make long, thin julienned strips with the carrot. When they are too long, cut the long strips in half or thirds into 2-inch pieces. If you have a regular vegetable peeler, peel the carrot into thin sheets, then cut the sheets into long, thin julienned strips.
 3. Chop 5 sprigs cilantro (coriander) and discard the stems.
-4. In a large salad bowl, place the green cabbage, red cabbage, carrot, cilantro, 0.5 cup shelled edamame, and ⅛ cup peanuts. If you‘re not serving the salad right away, cover it with plastic and refrigerate it for up to 24 hours.
+4. In a large salad bowl, place the green cabbage, red cabbage, carrot, cilantro, 0.5 cup shelled edamame, and 1/8 cup peanuts. If you‘re not serving the salad right away, cover it with plastic and refrigerate it for up to 24 hours.
 
 About 10 minutes before serving, take out the Miso Dressing from the refrigerator and shake well. Drizzle two-thirds of the dressing over the salad and toss together. Taste the salad and add more dressing, if needed.
 

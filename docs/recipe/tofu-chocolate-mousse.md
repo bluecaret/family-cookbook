@@ -46,7 +46,7 @@ Use silken tofu, not regular tofu for the creamy texture.
 
 For a quicker dessert, chill only till cool or for about 30 minutes, this will result in more of a pudding texture.
 
-You can sub cocoa powder for melted chocolate. Use ¾ cup dark chocolate chips and melt in the microwave in 20-second increments. Add melted chocolate to the food processor with the other ingredients and follow original directions.
+You can sub cocoa powder for melted chocolate. Use 3/4 cup dark chocolate chips and melt in the microwave in 20-second increments. Add melted chocolate to the food processor with the other ingredients and follow original directions.
 
 Cover and store leftovers in fridge for up to 3 days.
 

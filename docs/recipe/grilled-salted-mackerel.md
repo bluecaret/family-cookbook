@@ -9,7 +9,7 @@ tag:
   - main
   - fish
   - mackerel
-excerpt: 'Baked in the oven, this Grilled Mackerel or Saba Shioyaki is the simplest fish recipe you can make on a busy weeknight. Serve steamed rice, miso soup, and a side salad to accompany this flavorful fish!'
+excerpt: "Baked in the oven, this Grilled Mackerel or Saba Shioyaki is the simplest fish recipe you can make on a busy weeknight. Serve steamed rice, miso soup, and a side salad to accompany this flavorful fish!"
 noRecipe:
   - Coat mackerel with sake then pat dry.
   - Place fish on parchment paper. Sprinkle both sides with 1/2 tsp salt.
@@ -50,7 +50,7 @@ ingredients:
 1. Gather all the ingredients. I cut my mackerel fillets in half crosswise for presentation.
 2. Coat 2 fillets mackerel (saba) with 2 Tbsp sake.
 3. Pat dry with paper towels (and discard the sake) and transfer the fish to a baking sheet lined with parchment paper.
-4. Sprinkle both sides of the fish with ½ tsp salt.
+4. Sprinkle both sides of the fish with 1/2 tsp salt.
 5. Let it sit at room temperature for 20 minutes. During this time, preheat the oven to 425°F (218°C) with a rack placed in the middle position. For a convection oven, reduce the cooking temperature by 25°F (15°C).
 6. After 20 minutes, pat dry the excess moisture released from the fish.
 7. Place the fish skin side down on the parchment paper and bake for 15–20 minutes, or until the flesh is golden brown.

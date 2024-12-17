@@ -1,8 +1,8 @@
 ---
-title: 'Broiled Buffalo Wings'
+title: "Broiled Buffalo Wings"
 author: "David Leite's Culinaria"
-authorUrl: 'https://leitesculinaria.com/78823/recipes-broiled-buffalo-wings.html'
-image: 'broiled-buffalo-wings.jpg'
+authorUrl: "https://leitesculinaria.com/78823/recipes-broiled-buffalo-wings.html"
+image: "broiled-buffalo-wings.jpg"
 category:
   - American
 tag:
@@ -25,7 +25,7 @@ ingredients:
   - quantity: 1
     unit: lb
     label: chicken wings
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: buffalo sauce (Frank's Red Hot)
   - quantity: 1

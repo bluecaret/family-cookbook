@@ -1,33 +1,33 @@
 ---
-title: 'Spanish Garlic Shrimp'
-author: 'Cook This Not That: Skinny Comfort Foods (page 242)'
-authorUrl: 'https://www.eatthis.com/spanish-garlic-shrimp-recipe/'
-image: 'spanish-garlic-shrimp.webp'
+title: "Spanish Garlic Shrimp"
+author: "Cook This Not That: Skinny Comfort Foods (page 242)"
+authorUrl: "https://www.eatthis.com/spanish-garlic-shrimp-recipe/"
+image: "spanish-garlic-shrimp.webp"
 category:
   - Mediterranean
 tag:
   - main
   - side
-excerpt: 'A staple on Spanish tapas menus everywhere, gambas al ajillo is a dead simple but genius combination of shrimp infused with garlic, paprika, and a touch of chile heat.'
+excerpt: "A staple on Spanish tapas menus everywhere, gambas al ajillo is a dead simple but genius combination of shrimp infused with garlic, paprika, and a touch of chile heat."
 servings: 4
 ingredients:
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: olive oil
   - quantity: 6
     unit: cloves
     label: garlic, thinly sliced
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: red pepper flakes
   - quantity: 1
     unit: lb
     label: shrimp
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: smoked paprika
   - label: Salt to taste
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: chopped fresh parsley
 ---

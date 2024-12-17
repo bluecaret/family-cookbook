@@ -20,15 +20,15 @@ ingredients:
   - quantity: 1
     unit: lb
     label: kimchi, cut into bite size pieces
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: kimchi brine
-  - quantity: ½
+  - quantity: 1/2
     unit: lb
     label: pork shoulder (or pork belly)
-  - quantity: ½
+  - quantity: 1/2
     unit: package
-    label: tofu (optional), sliced into ½ pieces
+    label: tofu (optional), sliced into 1/2 pieces
   - quantity: 3
     unit: stalks
     label: green onions
@@ -53,12 +53,12 @@ ingredients:
   - quantity: 2
     unit: cups
     label: anchovy stock (or chicken/beef broth)
-  - heading: Stock (makes ~2½ cups)
+  - heading: Stock (makes ~2-1/2 cups)
     ingredients:
       - quantity: 7
         unit: large
         label: dried anchovies, heads and guts removed
-      - quantity: ⅓
+      - quantity: 1/3
         unit: cup
         label: Korean radish (or daikon), sliced thinly
       - label: 4x5 inch dried kelp

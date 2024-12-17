@@ -1,15 +1,15 @@
 ---
-title: 'Healthy Granola Bars'
-author: 'Well Plated'
-authorUrl: 'https://www.wellplated.com/healthy-granola-bars/#wprm-recipe-container-35076'
-image: 'healthy-granola-bars.jpg'
+title: "Healthy Granola Bars"
+author: "Well Plated"
+authorUrl: "https://www.wellplated.com/healthy-granola-bars/#wprm-recipe-container-35076"
+image: "healthy-granola-bars.jpg"
 category:
   - American
 tag:
   - side
   - snack
   - granola
-excerpt: 'A healthy granola bar recipe with oats, peanut butter, honey, and your favorite mix-ins. High fiber, low sugar!'
+excerpt: "A healthy granola bar recipe with oats, peanut butter, honey, and your favorite mix-ins. High fiber, low sugar!"
 servings: 10
 time:
   prep: 10 mins
@@ -19,31 +19,31 @@ ingredients:
   - quantity: 2
     unit: cups
     label: old-fashioned rolled oats
-  - quantity: ¾
+  - quantity: 3/4
     unit: cup
     label: nuts, roughly chopped
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: sunflower seeds
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: unsweetened coconut flakes
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: honey
-  - quantity: ⅓
+  - quantity: 1/3
     unit: cup
     label: creamy peanut butter
   - quantity: 2
     unit: tsp
     label: vanilla
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground cinnamon
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
-  - quantity: ⅓
+  - quantity: 1/3
     unit: cup
     label: mini chocolate chips or dried fruit or nuts
 ---

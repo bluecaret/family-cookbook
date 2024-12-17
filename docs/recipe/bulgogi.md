@@ -1,14 +1,14 @@
 ---
-title: 'Bulgogi (Korean BBQ Beef)'
-author: 'Aaron and Claire'
-authorUrl: 'https://aaronandclaire.com/bulgogi-korean-bbq-beef/'
-image: 'bulgogi.jpg'
+title: "Bulgogi (Korean BBQ Beef)"
+author: "Aaron and Claire"
+authorUrl: "https://aaronandclaire.com/bulgogi-korean-bbq-beef/"
+image: "bulgogi.jpg"
 category:
   - Korean
 tag:
   - main
   - beef
-excerpt: 'Bulgogi is one of the most iconic Korean foods of all time. Simple, easy and delicious!'
+excerpt: "Bulgogi is one of the most iconic Korean foods of all time. Simple, easy and delicious!"
 noRecipe:
   - Marinate beef (cut in bite-sized) for 15min+ in soy sauce, oyster sauce, sugar, mirin, minced garlic, sesame oil, black pepper. Massage sauce on meat in bowl.
   - In a pan heat oil and green onion whites over medium heat.
@@ -17,7 +17,7 @@ noRecipe:
   - Coat bowl with sesame oil. Place rice, then beef, and greens.
 servings: 4
 ingredients:
-  - quantity: 1⅓
+  - quantity: 1-1/3
     unit: lb
     label: beef, thinly sliced
   - quantity: 5
@@ -25,7 +25,7 @@ ingredients:
   - quantity: 1
     unit: whole
     label: yellow onion
-  - quantity: ½
+  - quantity: 1/2
     label: carrot (~4oz)
   - quantity: 2
     unit: tbsp
@@ -40,16 +40,16 @@ ingredients:
   - label: cherry tomatoes, garnish
   - heading: Marinade
     ingredients:
-      - quantity: 2½
+      - quantity: 2-1/2
         unit: tbsp
         label: soy sauce
-      - quantity: 2½
+      - quantity: 2-1/2
         unit: tbsp
         label: oyster sauce
-      - quantity: 2½
+      - quantity: 2-1/2
         unit: tbsp
         label: sugar
-      - quantity: 2½
+      - quantity: 2-1/2
         unit: tbsp
         label: mirin
       - quantity: 2

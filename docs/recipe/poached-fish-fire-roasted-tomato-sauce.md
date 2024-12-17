@@ -1,7 +1,7 @@
 ---
-title: 'Poached fish with fire roasted tomato sauce'
-author: 'Cardiometabolic Food Plan - Institute for Functional Medicine (page 25)'
-image: 'poached-fish-fire-roasted-tomato-sauce.jpg'
+title: "Poached fish with fire roasted tomato sauce"
+author: "Cardiometabolic Food Plan - Institute for Functional Medicine (page 25)"
+image: "poached-fish-fire-roasted-tomato-sauce.jpg"
 category:
   - Mediterranean
 tag:
@@ -11,7 +11,7 @@ tag:
   - halibut
   - tomato
   - curry
-excerpt: 'Simmered white fish in a mildly spicy tomato sauce over a bed of spinach.'
+excerpt: "Simmered white fish in a mildly spicy tomato sauce over a bed of spinach."
 noRecipe:
   - Heat oil in skillet over med-low
   - Saute onion.
@@ -33,25 +33,25 @@ ingredients:
   - quantity: 1
     unit: clove
     label: garlic, minced
-  - quantity: ½
+  - quantity: 1/2
     unit: inch
     label: ginger, grated
   - quantity: 15oz
     unit: can
     label: fire-roasted chopped tomatoes, no salt added
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: black pepper
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: curry powder (optional)
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: lbs
     label: firm white fish (cod, halibut, haddock)
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: chopped fresh parsley
 ---

@@ -12,22 +12,22 @@ excerpt: "A classic banana bread."
 time:
   total: 50 mins
 ingredients:
-  - quantity: 2½
+  - quantity: 2-1/2
     unit: cups
     label: flour
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: sugar
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: brown sugar
-  - quantity: 3½
+  - quantity: 3-1/2
     unit: tsp
     label: baking powder
   - quantity: 1
     unit: tsp
     label: salt
-  - quantity: ⅓
+  - quantity: 1/3
     unit: cup
     label: milk
   - quantity: 1

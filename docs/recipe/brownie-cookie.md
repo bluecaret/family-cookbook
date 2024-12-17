@@ -1,14 +1,14 @@
 ---
-title: 'Brownie Cookies'
-author: 'Megan @ Olives and Thyme'
-authorUrl: 'https://olivesnthyme.com/brownie-cookies/#recipe'
-image: 'brownie-cookie.jpg'
+title: "Brownie Cookies"
+author: "Megan @ Olives and Thyme"
+authorUrl: "https://olivesnthyme.com/brownie-cookies/#recipe"
+image: "brownie-cookie.jpg"
 category:
   - American
 tag:
   - dessert
   - cookie
-excerpt: 'Brownie cookies are rich, chewy and fudgy brownies in cookie form. They have crisp edges and gooey centers with crinkly tops.'
+excerpt: "Brownie cookies are rich, chewy and fudgy brownies in cookie form. They have crisp edges and gooey centers with crinkly tops."
 servings: 16
 time:
   prep: 15 mins
@@ -16,7 +16,7 @@ time:
   cook: 10 mins
   total: 55 mins
 ingredients:
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: unsalted butter
   - quantity: 8
@@ -25,28 +25,28 @@ ingredients:
   - quantity: 2
     unit: large
     label: eggs (room temperature)
-  - quantity: ¾
+  - quantity: 3/4
     unit: cup
     label: granulated sugar
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: light brown sugar
   - quantity: 1
     unit: tsp
     label: vanilla
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: dutch processed or unsweetened cocoa powder
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: baking powder
-  - quantity: ¾
+  - quantity: 3/4
     unit: cup
     label: all purpose flour
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: mini chocolate chips
 ---

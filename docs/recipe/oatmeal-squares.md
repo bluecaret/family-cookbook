@@ -1,28 +1,28 @@
 ---
-title: 'Oatmeal Squares'
-author: 'Angela at Oh She Glows'
-authorUrl: 'https://ohsheglows.com/on-the-glow-basic-oatmeal-squares/'
-image: 'oatmeal-squares.jpg'
+title: "Oatmeal Squares"
+author: "Angela at Oh She Glows"
+authorUrl: "https://ohsheglows.com/on-the-glow-basic-oatmeal-squares/"
+image: "oatmeal-squares.jpg"
 category:
   - American
 tag:
   - side
   - snack
   - oatmeal
-excerpt: 'Basic oatmeal squares that can be dressed up anyway you like.'
+excerpt: "Basic oatmeal squares that can be dressed up anyway you like."
 servings: 9
 time:
   prep: 10 mins
   cook: 35 mins
   total: 45 mins
 ingredients:
-  - quantity: 2½
+  - quantity: 2-1/2
     unit: cups
     label: rolled oats (not instant), divided
   - quantity: 3
     unit: tbsp
     label: chia seed
-  - quantity: ½cup + 1tbsp
+  - quantity: 1/2cup + 1tbsp
     label: ground flax
   - quantity: 1
     unit: tsp
@@ -30,13 +30,13 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: baking powder
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: salt
-  - quantity: 1½
+  - quantity: 1-1/2
     unit: cups
     label: milk
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: agave or maple syrup
   - quantity: 2

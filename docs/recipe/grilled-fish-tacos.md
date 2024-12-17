@@ -1,14 +1,14 @@
 ---
-title: 'Grilled Fish Tacos'
-author: 'Eating Well'
-authorUrl: 'https://www.eatingwell.com/recipe/250071/grilled-fish-tacos/'
-image: 'grilled-fish-tacos.webp'
+title: "Grilled Fish Tacos"
+author: "Eating Well"
+authorUrl: "https://www.eatingwell.com/recipe/250071/grilled-fish-tacos/"
+image: "grilled-fish-tacos.webp"
 category:
   - Mexican
 tag:
   - main
   - fish
-excerpt: 'Instead of deep-frying the fish for these tacos, we coat the fish with a flavor-packed chili rub and grill it.'
+excerpt: "Instead of deep-frying the fish for these tacos, we coat the fish with a flavor-packed chili rub and grill it."
 servings: 6
 time:
   prep: 20 mins
@@ -38,18 +38,18 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: salt
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: ground pepper
       - quantity: 2
         unit: lbs
-        label: mahi-mahi or halibut, about ½-¾" thick, skinned, cut into 4 portions
+        label: mahi-mahi or halibut, about 1/2 to 3/4" thick, skinned, cut into 4 portions
   - heading: Coleslaw
     ingredients:
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: sour cream
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: mayonnaise
       - quantity: 2
@@ -64,7 +64,7 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: sugar
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: salt
       - label: ground pepper

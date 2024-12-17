@@ -1,12 +1,12 @@
 ---
-title: 'Grilled Chicken Wings (with 2 sauce options)'
+title: "Grilled Chicken Wings (with 2 sauce options)"
 category:
   - American
 tag:
   - side
   - main
   - chicken
-excerpt: 'Basic grilled chicken wings that can be used with any sauce. Includes recipe for Buffalo and Ginger Soy sauces.'
+excerpt: "Basic grilled chicken wings that can be used with any sauce. Includes recipe for Buffalo and Ginger Soy sauces."
 noRecipe:
   - Cook wings (tossed in oil, salt, pepper) in oven at 400° for 40 minutes.
   - Turn half way.
@@ -26,21 +26,21 @@ ingredients:
       - quantity: 1
         unit: tbsp
         label: butter, melted
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: cayenne pepper
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: salt
-      - quantity: ¼
+      - quantity: 1/4
         unit: tsp
         label: pepper
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: hot sauce (Franks Red Hot or similar)
   - heading: Ginger Soy Glaze
     ingredients:
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: honey
       - quantity: 2
@@ -52,7 +52,7 @@ ingredients:
       - quantity: 2
         unit: inch
         label: ginger, peeled, sliced
-      - quantity: ¼
+      - quantity: 1/4
         unit: cup
         label: water
 ---

@@ -1,8 +1,8 @@
 ---
-title: 'Garlic Parmesan Baked Flounder'
-author: 'The Mediterranean Dish'
-authorUrl: 'https://www.themediterraneandish.com/baked-flounder-recipe/#wprm-recipe-container-51847'
-image: 'garlic-parmesan-baked-flounder.jpg'
+title: "Garlic Parmesan Baked Flounder"
+author: "The Mediterranean Dish"
+authorUrl: "https://www.themediterraneandish.com/baked-flounder-recipe/#wprm-recipe-container-51847"
+image: "garlic-parmesan-baked-flounder.jpg"
 category:
   - Mediterranean
 tag:
@@ -10,7 +10,7 @@ tag:
   - fish
   - flounder
   - parmesan
-excerpt: 'This one-pan baked flounder recipe with garlic, Parmesan cheese, and vegetables is easy and so delicious (thanks to a bold and lemony sauce with Mediterranean spices!)'
+excerpt: "This one-pan baked flounder recipe with garlic, Parmesan cheese, and vegetables is easy and so delicious (thanks to a bold and lemony sauce with Mediterranean spices!)"
 servings: 3
 time:
   prep: 5 mins
@@ -22,7 +22,7 @@ ingredients:
   - quantity: 1
     unit: medium
     label: zucchini, halved and sliced
-  - quantity: ½
+  - quantity: 1/2
     unit: small
     label: red onion, halved and sliced
   - label: salt
@@ -33,17 +33,17 @@ ingredients:
   - quantity: 1
     unit: tsp
     label: oregano
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: paprika
-  - quantity: ¼
+  - quantity: 1/4
     unit: tsp
     label: cumin
   - label: Juice of 1 lemon
   - quantity: 2
     unit: tbsp
     label: olive oil
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: grated parmesan cheese
 ---

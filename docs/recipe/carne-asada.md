@@ -20,12 +20,12 @@ ingredients:
   - quantity: 1
     unit: lb
     label: skirt steak, timmed of excess fat
-  - quantity: ½
+  - quantity: 1/2
     label: jalapeno, seeded and minced
   - quantity: 2
     unit: cloves
     label: garlic, minced
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: fresh cilantro, chopped
   - label: juice of half a orange
@@ -34,16 +34,16 @@ ingredients:
   - quantity: 1
     unit: tbsp
     label: apple cider vinegar
-  - quantity: 2½
+  - quantity: 2-1/2
     unit: tbsp
     label: olive oil
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: ground cumin
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: kosher salt
-  - quantity: ½
+  - quantity: 1/2
     unit: tsp
     label: black pepper
 ---

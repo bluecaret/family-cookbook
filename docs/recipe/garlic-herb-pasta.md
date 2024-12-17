@@ -18,25 +18,25 @@ ingredients:
     unit: oz
     label: angel hair pasta
   - label: salt
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: olive oil
   - quantity: 2
     unit: tbsp
     label: finely chopped herbs (rosemary, thyme, oregano)
-  - quantity: ¼
+  - quantity: 1/4
     unit: cup
     label: chopped fresh parsley
   - quantity: 3
     unit: cloves
     label: sliced garlic
-  - quantity: ⅛
+  - quantity: 1/8
     unit: tsp
     label: chili pepper flakes
-  - quantity: ½-1
+  - quantity: 1/2-1
     unit: tsp
     label: ground black pepper
-  - quantity: ½
+  - quantity: 1/2
     unit: cup
     label: grated parmesan cheese
 ---

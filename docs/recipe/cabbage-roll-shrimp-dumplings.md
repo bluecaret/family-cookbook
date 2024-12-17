@@ -1,8 +1,8 @@
 ---
-title: 'Cabbage Roll Shrimp Dumplings'
-author: 'What Great Grandma Ate @ FoodSocial'
-authorUrl: 'https://foodsocial.io/recipe/pan-fried-cabbage-roll-shrimp-dumplings/'
-image: 'cabbage-roll-shrimp-dumplings.jpg'
+title: "Cabbage Roll Shrimp Dumplings"
+author: "What Great Grandma Ate @ FoodSocial"
+authorUrl: "https://foodsocial.io/recipe/pan-fried-cabbage-roll-shrimp-dumplings/"
+image: "cabbage-roll-shrimp-dumplings.jpg"
 category:
   - Japanese
 tag:
@@ -10,7 +10,7 @@ tag:
   - cabbage
   - napa
   - shrimp
-excerpt: 'These pan fried cabbage rolls are a quick and easy way to enjoy shrimp dumpling flavor. Also good for using up leftover napa.'
+excerpt: "These pan fried cabbage rolls are a quick and easy way to enjoy shrimp dumpling flavor. Also good for using up leftover napa."
 servings: 2
 time:
   prep: 5 mins
@@ -34,7 +34,7 @@ ingredients:
       - quantity: 2
         unit: cloves
         label: garlic
-      - quantity: ½
+      - quantity: 1/2
         unit: inch
         label: ginger
       - quantity: 1
@@ -46,10 +46,10 @@ ingredients:
       - quantity: 1
         unit: tsp
         label: soy sauce
-      - quantity: ½
+      - quantity: 1/2
         unit: tsp
         label: salt
-      - quantity: ⅛
+      - quantity: 1/8
         unit: tsp
         label: black pepper
   - heading: Dipping Sauce
@@ -71,7 +71,7 @@ ingredients:
 ## Steps
 
 1. Heat a large pot of water over high heat and let it come to a boil.
-2. Slice the hardy bottom 2 inches off the base of the napa cabbage leaves and discard. Boil the leaves in the water for 2½ minutes until soft and pliable.
+2. Slice the hardy bottom 2 inches off the base of the napa cabbage leaves and discard. Boil the leaves in the water for 2-1/2 minutes until soft and pliable.
 3. Remove the leaves from the pot and set aside to cool.
 4. While the leaves are cooling, place carrot, green onions, garlic, and ginger in a food processor, and process until they are chopped into small pieces.
 5. Add shrimp, sesame oil, soy sauce, salt, and pepper, and pulse until chopped and combined. If you don't have a food processor, you can chop everything into small pieces with a sharp knife and mix together in a bowl.
